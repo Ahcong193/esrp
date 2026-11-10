@@ -1,0 +1,15 @@
+[
+    {
+        "online": "1",
+        "maxonline": "100",
+        "color": "FFFFFF",
+        "x2": "false",
+        "key": "1424",
+        "name": "ESRP(LC)",
+        "firstname": "LOCAL",
+        "secondname": "",
+        "url": "volgograd.blackrussia.online",
+        "ip": "192.168.0.130",
+        "port": "7777"
+    }
+]
