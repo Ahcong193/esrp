@@ -1,581 +1,731 @@
-﻿{
-  "fractionTask":
-  [
+{
+  "fractionTask": [
     {
       "fractionID": 1,
-      "taskList":
-      [
+      "taskList": [
         {
-            "taskID": 0,
-        	"taskTitle": "Пройти тестирование",
-        	"taskInfo": "Нужно пройти тестирование, чтобы повыситься до 2-го ранга.",
-        	"taskDescription": "Пройдите тестирование на знание Устава организации. Выберите пункт \"Документы\", и после прочтения нажмите \"Ознакомлен\" у каждого пункта.",
-        	"taskMoney": 0,
-        	"taskPoint": 50,
-        	"taskToken": 0,
-            "taskAccess": [1, 1]
+          "taskID": 0,
+          "taskTitle": "Complete the test",
+          "taskInfo": "Complete the test to get promoted to rank 2.",
+          "taskDescription": "complete test on knowledge Устава organisation. choose option \"documents\", and after reading press \"Ознакомлен\" at each item.",
+          "taskMoney": 0,
+          "taskPoint": 50,
+          "taskToken": 0,
+          "taskAccess": [
+            1,
+            1
+          ]
         },
         {
-        	"taskID": 1,
-        	"taskTitle": "Плановый осмотр",
-        	"taskInfo": "Нужно провести осмотр 2 продуктовых магазинов",
-        	"taskDescription": "Владельцы бизнесов не всегда добросовестно относятся по отношению к гражданам. Нужно осмотреть магазины на наличие продуктов и их срок годности",
-        	"taskMoney": 100000,
-        	"taskPoint": 20,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 1,
+          "taskTitle": "Scheduled Inspection",
+          "taskInfo": "Inspect 2 grocery stores.",
+          "taskDescription": "Владельцы бизнесов not always добросовестно относятся for отношению to гражданам. need to inspect магазины on presence products and their expiry date",
+          "taskMoney": 100000,
+          "taskPoint": 20,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 2,
-        	"taskTitle": "Авторитетная бабушка Нюра",
-        	"taskInfo": "Авторитетная бабушка Нюра попала в беду. Ей необходимо помочь.",
-        	"taskDescription": "Бабушка Нюра имеет большой авторитет в своей деревне и может вести за собой людей. Благодаря ее деятельности мы выиграли прошлые выборы, именно поэтому мы должны ей сейчас помочь, чтобы она снова помогла нам в дальнейшем.\n\nВремени медлить почти не остается, скорее отправляйтесь к ней и узнайте, что нужно сделать.",
-        	"taskMoney": 100000,
-        	"taskPoint": 20,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 2,
+          "taskTitle": "Respected Grandma Nyura",
+          "taskInfo": "Grandma Nyura is in trouble. She needs your help.",
+          "taskDescription": "Бабушка Нюра has large авторитет in своей village and can вести for собой people. thanks to her деятельности we выиграли прошлые election, именно поэтому we must ей сейчас help, so that she again помогла us in дальнейшем.\n\ntime медлить почти not остается, quickly go to ней and узнайте, what need to do.",
+          "taskMoney": 100000,
+          "taskPoint": 20,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 3,
-        	"taskTitle": "Агитационное движение вперед",
-        	"taskInfo": "Примите участие в агитационном движении и расклейте 5 листовок.",
-        	"taskDescription": "Впереди нас всех ждут очередные выборы губернатора. Нам очень важно переназначить нашего лидера. Будем же консолидированы в этот час, обеспечим губернатору достойную явку на выборы.\n\nА проценты... Не важно. Нет времени медлить, поскорее отправляйтесь в офис средств массовой информации за материалами.",
-        	"taskMoney": 100000,
-        	"taskPoint": 20,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 3,
+          "taskTitle": "Campaign Outreach",
+          "taskInfo": "Take part in the campaign and put up 5 flyers.",
+          "taskDescription": "ahead us everyone await очередные election governor. us very important переназначить нашего leader. Будем же консолидированы in this hour, обеспечим губернатору достойную явку on election.\n\nand проценты... not important. no time медлить, поскорее go in office средств массовой информации for материалами.",
+          "taskMoney": 100000,
+          "taskPoint": 20,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 4,
-        	"taskTitle": "Лучший лицензер области",
-        	"taskInfo": "Необходимо доказать, кто лучший. Продайте 3 лицензии гражданам.",
-        	"taskDescription": "Правительство ищет лучшего лицензера для щедрого вознаграждения. Чтобы им стать необходимо продать три любые лицензии в течении дня, поторопись.",
-        	"taskMoney": 100000,
-        	"taskPoint": 20,
-        	"taskToken": 2,
-            "taskAccess": [6, 6]
+          "taskID": 4,
+          "taskTitle": "Top Licence Officer",
+          "taskInfo": "Prove you are the best by selling 3 licences to citizens.",
+          "taskDescription": "Правительство ищет лучшего лицензера for щедрого вознаграждения. so that им стать need to sell three любые лицензии in течении days, поторопись.",
+          "taskMoney": 100000,
+          "taskPoint": 20,
+          "taskToken": 2,
+          "taskAccess": [
+            6,
+            6
+          ]
         },
         {
-          	"taskID": 5,
-        	"taskTitle": "Забота об автопарке",
-        	"taskInfo": "Отвезите любой транспорт организации на тех. осмотр",
-        	"taskDescription": "Изнашивание рабочего транспорта не редкость - сотрудники из старшего состава часто им пользуются. Нужно проверить транспорт на технические неисправности",
-        	"taskMoney": 100000,
-        	"taskPoint": 10,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 5,
+          "taskTitle": "Fleet Maintenance",
+          "taskInfo": "Take any organisation vehicle for a technical inspection.",
+          "taskDescription": "Изнашивание рабочего транспорта not редкость - staff from старшего staff часто им пользуются. need to check vehicle on технические неисправности",
+          "taskMoney": 100000,
+          "taskPoint": 10,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 6,
-        	"taskTitle": "Друзей в беде не бросают",
-        	"taskInfo": "Как можно скорее уничтожьте бумаги правительства до приезда проверки.",
-        	"taskDescription": "Очень рад, что мы смогли договориться и убедить тебя зарабатывать чуть больше, чем ты можешь на государственной службе. В общем, как всем известно — через две недели на проверку приезжает генеральный прокурор и нам бы не хотелось, чтобы проблема с бухгалтерией стала известна.\n\nТебе необходимо забрать архивы правительства, вывезти их и сжечь. Сделаешь это быстро – получишь свои кровные, а если начнешь медлить – получишь меньше. Твоё время пошло, вперед.",
-        	"taskMoney": 200000,
-        	"taskPoint": 10,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 6,
+          "taskTitle": "Never Leave Friends Behind",
+          "taskInfo": "how can quickly destroy documents government to arrival inspection.",
+          "taskDescription": "very рад, what we смогли reach an agreement and convince you earn slightly more, чем you можешь on government service. in общем, how всем known — через две недели on проверку приезжает генеральный прокурор and us бы not хотелось, so that проблема with бухгалтерией стала известна.\n\nyou need to collect архивы government, вывезти their and сжечь. Сделаешь this quickly – получишь свои кровные, and if начнешь медлить – получишь меньше. Твоё time пошло, forward.",
+          "taskMoney": 200000,
+          "taskPoint": 10,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         }
       ]
     },
     {
       "fractionID": 2,
-      "taskList":
-      [
+      "taskList": [
         {
-            "taskID": 0,
-        	"taskTitle": "Пройти тестирование",
-        	"taskInfo": "Нужно пройти тестирование, чтобы повыситься до 2-го ранга.",
-        	"taskDescription": "Пройдите тестирование на знание Устава организации. Выберите пункт \"Документы\", и после прочтения нажмите \"Ознакомлен\" у каждого пункта.",
-        	"taskMoney": 0,
-        	"taskPoint": 50,
-        	"taskToken": 0,
-            "taskAccess": [1, 1]
+          "taskID": 0,
+          "taskTitle": "Complete the test",
+          "taskInfo": "Complete the test to get promoted to rank 2.",
+          "taskDescription": "complete test on knowledge Устава organisation. choose option \"documents\", and after reading press \"Ознакомлен\" at each item.",
+          "taskMoney": 0,
+          "taskPoint": 50,
+          "taskToken": 0,
+          "taskAccess": [
+            1,
+            1
+          ]
         },
         {
-        	"taskID": 7,
-        	"taskTitle": "Ликвидация бандитов",
-        	"taskInfo": "Необходимо уничтожить двух бандитов проникших на военную базу.",
-        	"taskDescription": "На протяжении дня на нашу военную часть систематически нападают вражеские силы. Нам необходимо их отбивать. Считаю, что с твоей помощью мы точно справимся.\n\nОтправляйся на склад и проследи, чтобы на нем не было бандитов. Если они там появятся, тебе необходимо будет устранить двоих. Если справишься – будешь вознагражден, а если не справишься – получишь шиш!",
-        	"taskMoney": 100000,
-        	"taskPoint": 20,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 7,
+          "taskTitle": "Gangster Elimination",
+          "taskInfo": "need to eliminate двух gangsters who entered on military base.",
+          "taskDescription": "on протяжении days on нашу military part систематически attack enemy forces. us need to their отбивать. I think, what with твоей with help we точно справимся.\n\nОтправляйся on склад and проследи, so that on нем not было gangsters. if they там появятся, you need to will устранить двоих. if справишься – будешь вознагражден, and if not справишься – получишь шиш!",
+          "taskMoney": 100000,
+          "taskPoint": 20,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 8,
-        	"taskTitle": "Верный защитник",
-        	"taskInfo": "Необходимо отслужить 20 минут в форме на территории военной части.",
-        	"taskDescription": "Вам необходимо отслужить 20 минут в форме, чтобы пройти испытание дежурного. В ином случае, мы лишим Вас награды за верность отчизне. Помните, что покидать территорию военной части – запрещено.",
-        	"taskMoney": 100000,
-        	"taskPoint": 20,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 8,
+          "taskTitle": "Loyal Defender",
+          "taskInfo": "need to отслужить 20 minutes in uniform on territory military части.",
+          "taskDescription": "you need to отслужить 20 minutes in uniform, so that complete испытание дежурного. in ином case, we лишим you rewards for верность отчизне. remember, what leave territory military части – prohibited.",
+          "taskMoney": 100000,
+          "taskPoint": 20,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 9,
-        	"taskTitle": "Развозка материалов",
-        	"taskInfo": "Необходимо доставить 2 фуры с материалами в армию или организации.",
-        	"taskDescription": "Поставка материалов – это важнейший источник продуктивной работы других силовых государственных организаций. Без материалов других организации не смогут производить оружие, а также средства самообороны.\n\nВам необходимо развести пять фур с материалами в государственные силовые структуры, или привезти материалы на военную часть.",
-        	"taskMoney": 100000,
-        	"taskPoint": 20,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 9,
+          "taskTitle": "Material Delivery",
+          "taskInfo": "need to deliver 2 фуры with материалами in армию or organisation.",
+          "taskDescription": "Поставка materials – this most important source productive work other security government организаций. without materials other organisation not смогут производить weapon, and also средства самообороны.\n\nyou need to развести five фур with материалами in государственные силовые структуры, or привезти materials on military part.",
+          "taskMoney": 100000,
+          "taskPoint": 20,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 10,
-        	"taskTitle": "На страже военной части",
-        	"taskInfo": "Необходимо отстоять 15 минут на любой постовой вышке.",
-        	"taskDescription": "Охрана территории военной части и наблюдение за ее безопасностью – это главное обязательство всех военнослужащих.\nВам необходимо занять любой пост на вышке и простоять на нем тридцать минут.",
-        	"taskMoney": 100000,
-        	"taskPoint": 20,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 10,
+          "taskTitle": "Guarding the Military Base",
+          "taskInfo": "need to stand guard 15 minutes on any guard tower.",
+          "taskDescription": "security territory military части and monitoring for her безопасностью – this main responsibility everyone soldiers.\nyou need to take any post on tower and простоять on нем тридцать minutes.",
+          "taskMoney": 100000,
+          "taskPoint": 20,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 11,
-        	"taskTitle": "Пайковый наряд",
-        	"taskInfo": "Необходимо разнести сухпаек по шкафчикам 5 солдат.",
-        	"taskDescription": "Обеспечение личного состава сухими пайками — важная часть повседневной службы.\nВам необходимо взять коробку с пайками и разложить их по шкафчикам солдат",
-        	"taskMoney": 100000,
-        	"taskPoint": 10,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 11,
+          "taskTitle": "Ration Distribution",
+          "taskInfo": "need to разнести сухпаек for lockers 5 soldiers.",
+          "taskDescription": "providing personnel staff dry rations — important part daily service.\nyou need to take box with rations and put their for lockers soldiers",
+          "taskMoney": 100000,
+          "taskPoint": 10,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 12,
-        	"taskTitle": "Железная подготовка",
-        	"taskInfo": "Необходимо зайти в спортзал части и выполнить подъём гантелей.",
-        	"taskDescription": "Поддержание физической формы — неотъемлемая часть армейской службы.\nВам необходимо проследовать в спортзал воинской части и выполнить упражнение с гантелями. Следуйте инструкции и завершите тренировку, демонстрируя готовность к выполнению нормативов. ",
-        	"taskMoney": 100000,
-        	"taskPoint": 10,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 12,
+          "taskTitle": "Железная подготовка",
+          "taskInfo": "need to зайти in спортзал части and complete подъём гантелей.",
+          "taskDescription": "Поддержание физической формы — неотъемлемая part армейской service.\nyou need to проследовать in спортзал воинской части and complete упражнение with гантелями. Следуйте инструкции and complete тренировку, демонстрируя готовность to выполнению нормативов. ",
+          "taskMoney": 100000,
+          "taskPoint": 10,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         }
       ]
     },
     {
       "fractionID": 3,
-      "taskList":
-      [
+      "taskList": [
         {
-            "taskID": 0,
-        	"taskTitle": "Пройти тестирование",
-        	"taskInfo": "Нужно пройти тестирование, чтобы повыситься до 2-го ранга.",
-        	"taskDescription": "Пройдите тестирование на знание Устава организации. Выберите пункт \"Документы\", и после прочтения нажмите \"Ознакомлен\" у каждого пункта.",
-        	"taskMoney": 0,
-        	"taskPoint": 50,
-        	"taskToken": 0,
-            "taskAccess": [1, 1]
+          "taskID": 0,
+          "taskTitle": "Complete the test",
+          "taskInfo": "Complete the test to get promoted to rank 2.",
+          "taskDescription": "complete test on knowledge Устава organisation. choose option \"documents\", and after reading press \"Ознакомлен\" at each item.",
+          "taskMoney": 0,
+          "taskPoint": 50,
+          "taskToken": 0,
+          "taskAccess": [
+            1,
+            1
+          ]
         },
         {
-        	"taskID": 13,
-        	"taskTitle": "Король медицинских карт",
-        	"taskInfo": "Необходимо выписать 5 медицинских карточек жителям области.",
-        	"taskDescription": "Медицинская карта — это медицинский документ, в котором лечащими врачами ведётся запись истории болезни пациента и назначаемого ему лечения. Тебе необходимо выписать пять медицинских карточек жителям области, чтобы выполнить фракционное задание.",
-        	"taskMoney": 10000,
-        	"taskPoint": 15,
-        	"taskToken": 2,
-            "taskAccess": [3, 10]
+          "taskID": 13,
+          "taskTitle": "Король medical карт",
+          "taskInfo": "need to выписать 5 medical карточек жителям region.",
+          "taskDescription": "Медицинская карта — this медицинский документ, in котором лечащими врачами ведётся запись истории болезни пациента and назначаемого ему лечения. you need to выписать five medical карточек жителям region, so that complete фракционное task.",
+          "taskMoney": 10000,
+          "taskPoint": 15,
+          "taskToken": 2,
+          "taskAccess": [
+            3,
+            10
+          ]
         },
         {
-        	"taskID": 14,
-        	"taskTitle": "Лучший доктор",
-        	"taskInfo": "Необходимо вылечить 10 пациентов на териитории больницы.",
-        	"taskDescription": "Основная обязанность больницы – это оказание квалифицированной и своевременной медицинской помощи всем, кто в ней нуждается.\n\nТебе необходимо вылечить десять пациентов, которые находятся на территории больницы.",
-        	"taskMoney": 10000,
-        	"taskPoint": 15,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 14,
+          "taskTitle": "Лучший доктор",
+          "taskInfo": "need to вылечить 10 пациентов on териитории hospital.",
+          "taskDescription": "Основная обязанность hospital – this оказание квалифицированной and своевременной медицинской assistance всем, who in ней нуждается.\n\nyou need to вылечить десять пациентов, which находятся on territory hospital.",
+          "taskMoney": 10000,
+          "taskPoint": 15,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 15,
-        	"taskTitle": "Спасение раненых",
-        	"taskInfo": "Необходимо реанимировать и спасти 5 пострадавших на вызовах.",
-        	"taskDescription": "Основная обязанность больницы – это оказание квалифицированной и своевременной медицинской помощи всем, кто в ней нуждается.\n\nТебе необходимо взять карету скорой помощи, отправиться на вызовы и спасти пять раненных человек.",
-        	"taskMoney": 10000,
-        	"taskPoint": 15,
-        	"taskToken": 2,
-            "taskAccess": [4, 10]
+          "taskID": 15,
+          "taskTitle": "Спасение раненых",
+          "taskInfo": "need to реанимировать and save 5 пострадавших on вызовах.",
+          "taskDescription": "Основная обязанность hospital – this оказание квалифицированной and своевременной медицинской assistance всем, who in ней нуждается.\n\nyou need to take карету скорой assistance, go on вызовы and save five раненных person.",
+          "taskMoney": 10000,
+          "taskPoint": 15,
+          "taskToken": 2,
+          "taskAccess": [
+            4,
+            10
+          ]
         },
         {
-        	"taskID": 16,
-        	"taskTitle": "Фальсификация призыва",
-        	"taskInfo": "Необходимо сфальсифицировать результаты призывной комиссии.",
-        	"taskDescription": "Мой знакомый сообщил о том, что совсем недавно состоялась призывная медицинская комиссия, на которой его признали годным для службы, а все личные дела призывников передали в нашу больницу.\n\nТебе необходимо взломать дверь шкафа, изъять данные его медицинской книжки, а вместо нее подбросить документы, которые я тебе дам.",
-        	"taskMoney": 20000,
-        	"taskPoint": -30,
-        	"taskToken": 0,
-            "taskAccess": [2, 10]
+          "taskID": 16,
+          "taskTitle": "Фальсификация призыва",
+          "taskInfo": "need to сфальсифицировать результаты призывной комиссии.",
+          "taskDescription": "my знакомый сообщил about том, what совсем недавно состоялась призывная медицинская комиссия, on которой his признали годным for service, and all личные дела призывников передали in нашу больницу.\n\nyou need to взломать дверь шкафа, изъять данные his медицинской книжки, and вместо нее подбросить documents, which I you дам.",
+          "taskMoney": 20000,
+          "taskPoint": -30,
+          "taskToken": 0,
+          "taskAccess": [
+            2,
+            10
+          ]
         }
       ]
     },
     {
       "fractionID": 4,
-      "taskList":
-      [
+      "taskList": [
         {
-            "taskID": 0,
-        	"taskTitle": "Пройти тестирование",
-        	"taskInfo": "Нужно пройти тестирование, чтобы повыситься до 2-го ранга.",
-        	"taskDescription": "Пройдите тестирование на знание Устава организации. Выберите пункт \"Документы\", и после прочтения нажмите \"Ознакомлен\" у каждого пункта.",
-        	"taskMoney": 0,
-        	"taskPoint": 50,
-        	"taskToken": 0,
-            "taskAccess": [1, 1]
+          "taskID": 0,
+          "taskTitle": "Complete the test",
+          "taskInfo": "Complete the test to get promoted to rank 2.",
+          "taskDescription": "complete test on knowledge Устава organisation. choose option \"documents\", and after reading press \"Ознакомлен\" at each item.",
+          "taskMoney": 0,
+          "taskPoint": 50,
+          "taskToken": 0,
+          "taskAccess": [
+            1,
+            1
+          ]
         },
         {
-        	"taskID": 17,
-        	"taskTitle": "Лучший редактор",
-        	"taskInfo": "Необходимо тщательно проверить и отредактировать 15 объявлений.",
-        	"taskDescription": "Качественное редактирование и проверка объявлений, которые поступают от жителей области – это важное обязательство каждого сотрудника средств массовой информации.\n\nТебе необходимо проверить и качественно отредактировать тридцать объявлений, которые прислали жители нашей области.",
-        	"taskMoney": 100000,
-        	"taskPoint": 20,
-        	"taskToken": 3,
-            "taskAccess": [2, 10]
+          "taskID": 17,
+          "taskTitle": "Лучший редактор",
+          "taskInfo": "need to тщательно check and отредактировать 15 объявлений.",
+          "taskDescription": "Качественное редактирование and inspection объявлений, which поступают from residents region – this important responsibility each staff member средств массовой информации.\n\nyou need to check and качественно отредактировать тридцать объявлений, which прислали residents нашей region.",
+          "taskMoney": 100000,
+          "taskPoint": 20,
+          "taskToken": 3,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 18,
-        	"taskTitle": "Мы снова в эфире",
-        	"taskInfo": "Необходимо провести интересный эфир длительностью 10 минут.",
-        	"taskDescription": "Проведение качественных и интересных эфиров – это важное обязательство каждого сотрудника средств массовой информации.\n\nТебе необходимо провести любой интересный и увлекательный эфир, во время проведения которого нужно отправить 50 сообщений (/t).",
-        	"taskMoney": 10000,
-        	"taskPoint": 15,
-        	"taskToken": 3,
-            "taskAccess": [6, 10]
+          "taskID": 18,
+          "taskTitle": "we again in эфире",
+          "taskInfo": "need to conduct interesting эфир lasting 10 minutes.",
+          "taskDescription": "conducting качественных and интересных эфиров – this important responsibility each staff member средств массовой информации.\n\nyou need to conduct any interesting and увлекательный эфир, during проведения которого need to send 50 сообщений (/t).",
+          "taskMoney": 10000,
+          "taskPoint": 15,
+          "taskToken": 3,
+          "taskAccess": [
+            6,
+            10
+          ]
         },
         {
-        	"taskID": 19,
-        	"taskTitle": "Агитационный материал",
-        	"taskInfo": "Необходимо разнести 5 агитационных материалов.",
-        	"taskDescription": "Впереди нас всех ждут очередные выборы губернатора. Нам необходимо оповестить всех жителей области об этом событии, чтобы была максимальная явка.\n\nТебе необходимо распечатать агитационный материал, взять его и разнести по домам.",
-        	"taskMoney": 10000,
-        	"taskPoint": 15,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 19,
+          "taskTitle": "Агитационный material",
+          "taskInfo": "need to разнести 5 campaign materials.",
+          "taskDescription": "ahead us everyone await очередные election governor. us need to оповестить everyone residents region about этом событии, so that была максимальная явка.\n\nyou need to print агитационный material, take his and разнести for домам.",
+          "taskMoney": 10000,
+          "taskPoint": 15,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 20,
-        	"taskTitle": "Потерянная SD-карта",
-        	"taskInfo": "Необходимо выкрасть SD-карту и отнести ее прямиком в правительство.",
-        	"taskDescription": "В сейфе нашего директора хранится SD-карта, на которой содержится очень интересная информация с фактами фальсификации выборов губернатора. Наш директор против коррупции и хочет отнести этот материал в специальные органы.\n\n Высокопоставленные сотрудники правительства в курсе об этом и очень заинтересованы в том, чтобы ее заполучить. Они готовы заплатить неплохие деньги, если ты взломаешь сейф директора, выкрадешь SD-карту и отнесешь ее секретарю, которые находится в здании правительства.",
-        	"taskMoney": 20000,
-        	"taskPoint": -30,
-        	"taskToken": 0,
-            "taskAccess": [2, 10]
+          "taskID": 20,
+          "taskTitle": "Потерянная SD-карта",
+          "taskInfo": "need to выкрасть SD-карту and отнести her прямиком in правительство.",
+          "taskDescription": "in сейфе нашего директора хранится SD-карта, on которой содержится very интересная информация with фактами фальсификации выборов governor. Наш директор против коррупции and хочет отнести this material in специальные органы.\n\n Высокопоставленные staff government in курсе about этом and very заинтересованы in том, so that her заполучить. they ready заплатить неплохие money, if you взломаешь сейф директора, выкрадешь SD-карту and отнесешь her секретарю, which is in здании government.",
+          "taskMoney": 20000,
+          "taskPoint": -30,
+          "taskToken": 0,
+          "taskAccess": [
+            2,
+            10
+          ]
         }
       ]
     },
     {
       "fractionID": 5,
-      "taskList":
-      [
+      "taskList": [
         {
-            "taskID": 0,
-        	"taskTitle": "Пройти тестирование",
-        	"taskInfo": "Нужно пройти тестирование, чтобы повыситься до 2-го ранга.",
-        	"taskDescription": "Пройдите тестирование на знание устава организации. Выберите пункт \"Документы\", и после прочтения нажмите \"Ознакомлен\" у каждого пункта.",
-        	"taskMoney": 0,
-        	"taskPoint": 50,
-        	"taskToken": 0,
-            "taskAccess": [1, 1]
+          "taskID": 0,
+          "taskTitle": "Complete the test",
+          "taskInfo": "Complete the test to get promoted to rank 2.",
+          "taskDescription": "complete test on knowledge устава organisation. choose option \"documents\", and after reading press \"Ознакомлен\" at each item.",
+          "taskMoney": 0,
+          "taskPoint": 50,
+          "taskToken": 0,
+          "taskAccess": [
+            1,
+            1
+          ]
         },
         {
-        	"taskID": 21,
-        	"taskTitle": "Сделаем чистые улицы?",
-        	"taskInfo": "Необходимо посадить разыскиваемого гражданина области.",
-        	"taskDescription": "Ваша задача найти жителя области, который находится в розыске, задержать и посадить его в камеру предварительного заключения. Если начнет оказывать сопротивление – его необходимо будет устранить. Не забывайте, что все наказания должны быть полностью справедливыми и законными, иначе Вы рискуете сами оказаться за решеткой.",
-        	"taskMoney": 100000,
-        	"taskPoint": 20,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 21,
+          "taskTitle": "Let’s Clean Up the Streets!",
+          "taskInfo": "need to put in jail wanted гражданина region.",
+          "taskDescription": "your задача find жителя region, which is in wanted, arrest and put in jail his in камеру предварительного заключения. if начнет оказывать сопротивление – his need to will устранить. not забывайте, what all наказания must be полностью справедливыми and законными, иначе you рискуете сами оказаться for решеткой.",
+          "taskMoney": 100000,
+          "taskPoint": 20,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 22,
-        	"taskTitle": "Вместе - веселей!",
-        	"taskInfo": "Совместно с напарником на служебной машине патрулируйте 15 минут.",
-        	"taskDescription": "Вам необходимо совместно с напарником взять служебный транспорт и начать патрулирование области длительностью 15 минут. Время патрулирования будет считаться только в служебном транспорте и только при наличии напарника.",
-        	"taskMoney": 100000,
-        	"taskPoint": 20,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 22,
+          "taskTitle": "Teamwork Makes It Better!",
+          "taskInfo": "Совместно with partner on service car патрулируйте 15 minutes.",
+          "taskDescription": "you need to совместно with partner take service vehicle and start patrol region lasting 15 minutes. time патрулирования will считаться only in service транспорте and only when наличии partner.",
+          "taskMoney": 100000,
+          "taskPoint": 20,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 23,
-        	"taskTitle": "Мера предосторожности",
-        	"taskInfo": "Необходимо проверить 3 граждан на наличие проблем с законом.",
-        	"taskDescription": "Попросите показать документы у 3 граждан и удостоверьтесь в отсутствии у них проблем с законом. В случае, если гражданин находится в розыске - примите соответствующие меры",
-        	"taskMoney": 100000,
-        	"taskPoint": 20,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 23,
+          "taskTitle": "Precautionary Measure",
+          "taskInfo": "need to check 3 citizens on presence issues with law.",
+          "taskDescription": "Попросите show documents at 3 citizens and make sure in absence at них issues with law. in case, if citizen is in wanted - take part appropriate measures",
+          "taskMoney": 100000,
+          "taskPoint": 20,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 24,
-        	"taskTitle": "На страже закона",
-        	"taskInfo": "Отыграйте 60 минут будучи в рабочей форме",
-        	"taskDescription": "Нужно доказать преданность своей организации не только словами, но и делом. Отыграйте 60 минут не покидая рабочий день",
-        	"taskMoney": 150000,
-        	"taskPoint": 20,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 24,
+          "taskTitle": "Upholding the Law",
+          "taskInfo": "Отыграйте 60 minutes будучи in рабочей uniform",
+          "taskDescription": "need to доказать преданность своей organisation not only словами, but and делом. Отыграйте 60 minutes not leaving work day",
+          "taskMoney": 150000,
+          "taskPoint": 20,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 25,
-        	"taskTitle": "Как по расписанию",
-        	"taskInfo": "Необходимо купить какой-нибудь еды в любом ларьке",
-        	"taskDescription": "Здоровый полицейский — сытый полицейский. Перед началом смены нужно подкрепиться: купите любую еду в ближайшем ларьке, чтобы быть готовым к работе",
-        	"taskMoney": 100000,
-        	"taskPoint": 10,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 25,
+          "taskTitle": "how for расписанию",
+          "taskInfo": "need to buy какой-нибудь еды in any ларьке",
+          "taskDescription": "Здоровый полицейский — сытый полицейский. before началом shift need to подкрепиться: buy any еду in ближайшем ларьке, so that be готовым to job",
+          "taskMoney": 100000,
+          "taskPoint": 10,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         }
       ]
     },
     {
       "fractionID": 6,
-      "taskList":
-      [
+      "taskList": [
         {
-            "taskID": 0,
-        	"taskTitle": "Пройти тестирование",
-        	"taskInfo": "Нужно пройти тестирование, чтобы повыситься до 2-го ранга.",
-        	"taskDescription": "Пройдите тестирование на знание Устава организации. Выберите пункт \"Документы\", и после прочтения нажмите \"Ознакомлен\" у каждого пункта.",
-        	"taskMoney": 0,
-        	"taskPoint": 50,
-        	"taskToken": 0,
-            "taskAccess": [1, 1]
+          "taskID": 0,
+          "taskTitle": "Complete the test",
+          "taskInfo": "Complete the test to get promoted to rank 2.",
+          "taskDescription": "complete test on knowledge Устава organisation. choose option \"documents\", and after reading press \"Ознакомлен\" at each item.",
+          "taskMoney": 0,
+          "taskPoint": 50,
+          "taskToken": 0,
+          "taskAccess": [
+            1,
+            1
+          ]
         },
         {
-        	"taskID": 26,
-        	"taskTitle": "Сделаем чистые улицы?",
-        	"taskInfo": "Необходимо посадить разыскиваемого гражданина области",
-        	"taskDescription": "Ваша задача найти жителя области, который находится в задержать и посадить его в камеру предварительного заключения. Если начнет оказывать сопротивление – его необходимо будет устранить. Не забывайте, что все наказания должны быть полностью справедливыми и законными, иначе Вы рискуете сами оказаться за решеткой.",
-        	"taskMoney": 100000,
-        	"taskPoint": 20,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 26,
+          "taskTitle": "Let’s Clean Up the Streets!",
+          "taskInfo": "need to put in jail wanted гражданина region",
+          "taskDescription": "your задача find жителя region, which is in arrest and put in jail his in камеру предварительного заключения. if начнет оказывать сопротивление – his need to will устранить. not забывайте, what all наказания must be полностью справедливыми and законными, иначе you рискуете сами оказаться for решеткой.",
+          "taskMoney": 100000,
+          "taskPoint": 20,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 27,
-        	"taskTitle": "Вместе - веселей!",
-        	"taskInfo": "Совместно с напарником на служебной машине патрулируйте 15 минут",
-        	"taskDescription": "Вам необходимо совместно с напарником взять служебный транспорт и начать патрулирование области длительностью 15 минут. Время патрулирования будет считаться только в служебном транспорте и только при наличии напарника.",
-        	"taskMoney": 100000,
-        	"taskPoint": 20,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 27,
+          "taskTitle": "Teamwork Makes It Better!",
+          "taskInfo": "Совместно with partner on service car патрулируйте 15 minutes",
+          "taskDescription": "you need to совместно with partner take service vehicle and start patrol region lasting 15 minutes. time патрулирования will считаться only in service транспорте and only when наличии partner.",
+          "taskMoney": 100000,
+          "taskPoint": 20,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 28,
-        	"taskTitle": "Мера предосторожности",
-        	"taskInfo": "Необходимо проверить 3 граждан на наличие проблем с законом",
-        	"taskDescription": "Попросите показать документы у 3 граждан и удостоверьтесь в отсутствии у них проблем с законом. В случае, если гражданин находится в розыске - примите соответствующие меры",
-        	"taskMoney": 100000,
-        	"taskPoint": 20,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 28,
+          "taskTitle": "Precautionary Measure",
+          "taskInfo": "need to check 3 citizens on presence issues with law",
+          "taskDescription": "Попросите show documents at 3 citizens and make sure in absence at них issues with law. in case, if citizen is in wanted - take part appropriate measures",
+          "taskMoney": 100000,
+          "taskPoint": 20,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 29,
-        	"taskTitle": "На страже закона",
-        	"taskInfo": "Отыграйте 60 минут на сервере будучи в рабочей форме",
-        	"taskDescription": "Нужно доказать преданность своей организации не только словами, но и делом. Отыграйте 60 минут не покидая рабочий день",
-        	"taskMoney": 200000,
-        	"taskPoint": 20,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 29,
+          "taskTitle": "Upholding the Law",
+          "taskInfo": "Отыграйте 60 minutes on server будучи in рабочей uniform",
+          "taskDescription": "need to доказать преданность своей organisation not only словами, but and делом. Отыграйте 60 minutes not leaving work day",
+          "taskMoney": 200000,
+          "taskPoint": 20,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 30,
-        	"taskTitle": "Всегда рядом",
-        	"taskInfo": "Необходимо провести патрулирование города Южный",
-        	"taskDescription": "Чтобы служить городу по-настоящему, нужно быть всегда начеку. Проедьте по маршруту и убедитесь, что в вашем секторе всё под контролем.",
-        	"taskMoney": 200000,
-        	"taskPoint": 20,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 30,
+          "taskTitle": "Always Nearby",
+          "taskInfo": "need to conduct patrol city Южный",
+          "taskDescription": "so that служить городу for-настоящему, need to be always начеку. Проедьте for маршруту and убедитесь, what in вашем секторе всё under контролем.",
+          "taskMoney": 200000,
+          "taskPoint": 20,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         }
       ]
     },
     {
       "fractionID": 7,
-      "taskList":
-      [
+      "taskList": [
         {
-            "taskID": 0,
-        	"taskTitle": "Пройти тестирование",
-        	"taskInfo": "Нужно пройти тестирование, чтобы повыситься до 2-го ранга.",
-        	"taskDescription": "Пройдите тестирование на знание Устава организации. Выберите пункт \"Документы\", и после прочтения нажмите \"Ознакомлен\" у каждого пункта.",
-        	"taskMoney": 0,
-        	"taskPoint": 50,
-        	"taskToken": 0,
-            "taskAccess": [1, 1]
+          "taskID": 0,
+          "taskTitle": "Complete the test",
+          "taskInfo": "Complete the test to get promoted to rank 2.",
+          "taskDescription": "complete test on knowledge Устава organisation. choose option \"documents\", and after reading press \"Ознакомлен\" at each item.",
+          "taskMoney": 0,
+          "taskPoint": 50,
+          "taskToken": 0,
+          "taskAccess": [
+            1,
+            1
+          ]
         },
         {
-        	"taskID": 31,
-        	"taskTitle": "Сделаем чистые улицы?",
-        	"taskInfo": "Необходимо посадить или убить разыскиваемого гражданина области.",
-        	"taskDescription": "Ваша задача найти жителя области, который находится в розыске, задержать и посадить его в камеру предварительного заключения. Если начнет оказывать сопротивление – его необходимо будет устранить. Не забывайте, что все наказания должны быть полностью справедливыми и законными, иначе Вы рискуете сами оказаться за решеткой.",
-        	"taskMoney": 10000,
-        	"taskPoint": 20,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 31,
+          "taskTitle": "Let’s Clean Up the Streets!",
+          "taskInfo": "need to put in jail or kill wanted гражданина region.",
+          "taskDescription": "your задача find жителя region, which is in wanted, arrest and put in jail his in камеру предварительного заключения. if начнет оказывать сопротивление – his need to will устранить. not забывайте, what all наказания must be полностью справедливыми and законными, иначе you рискуете сами оказаться for решеткой.",
+          "taskMoney": 10000,
+          "taskPoint": 20,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 32,
-        	"taskTitle": "Вместе - веселей!",
-        	"taskInfo": "Совместно с напарником на служебной машине патрулируйте 15 минут.",
-        	"taskDescription": "Вам необходимо совместно с напарником взять служебный транспорт и начать патрулирование области длительностью 15 минут. Время патрулирования будет считаться только в служебном транспорте и только при наличии напарника.",
-        	"taskMoney": 10000,
-        	"taskPoint": 20,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 32,
+          "taskTitle": "Teamwork Makes It Better!",
+          "taskInfo": "Совместно with partner on service car патрулируйте 15 minutes.",
+          "taskDescription": "you need to совместно with partner take service vehicle and start patrol region lasting 15 minutes. time патрулирования will считаться only in service транспорте and only when наличии partner.",
+          "taskMoney": 10000,
+          "taskPoint": 20,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 33,
-        	"taskTitle": "Ликвидатор",
-        	"taskInfo": "Ликвидируйте агрессивного рецидивиста",
-        	"taskDescription": "Поступила информация о том, что в области завелся опасный гражданин-рецидивист.\n\nВаша задача найти этого гражданина, задержать и посадить его в камеру предварительного заключения. Если начнет оказывать сопротивление – его необходимо будет устранить",
-        	"taskMoney": 10000,
-        	"taskPoint": 20,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 33,
+          "taskTitle": "Eliminator",
+          "taskInfo": "Ликвидируйте агрессивного рецидивиста",
+          "taskDescription": "Поступила информация about том, what in region завелся dangerous citizen-рецидивист.\n\nyour задача find этого гражданина, arrest and put in jail his in камеру предварительного заключения. if начнет оказывать сопротивление – his need to will устранить",
+          "taskMoney": 10000,
+          "taskPoint": 20,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 34,
-        	"taskTitle": "Под прикрытием",
-        	"taskInfo": "Необходимо пробыть под прикрытием 20 минут.",
-        	"taskDescription": "Работа под прикрытием – это весьма опасный и сложный процесс, которые требует много времени и не терпит ошибок.\n\nВам необходимо пробыть под прикрытием тридцать минут и не дать себя обнаружить. Постарайтесь быть аккуратным, не совершайте резких или поспешных действий и решений.",
-        	"taskMoney": 10000,
-        	"taskPoint": 20,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 34,
+          "taskTitle": "Undercover",
+          "taskInfo": "need to stay under undercover 20 minutes.",
+          "taskDescription": "work under undercover – this весьма dangerous and difficult process, which требует many time and not терпит mistakes.\n\nyou need to stay under undercover тридцать minutes and not дать себя detect. try be аккуратным, not совершайте резких or поспешных действий and решений.",
+          "taskMoney": 10000,
+          "taskPoint": 20,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 35,
-        	"taskTitle": "Разгадка шифра",
-        	"taskInfo": "Необходимо вовремя разгадать шифр киберпреступника",
-        	"taskDescription": "В нашей работе нужны не только крепкие руки, но и быстрые мозги.\nКиберпреступник оставил зашифрованное сообщение, которое необходимо срочно разгадать. У вас ограниченное время, поэтому действуйте быстро — ошибка может стоить нам всей операции.",
-        	"taskMoney": 20000,
-        	"taskPoint": 20,
-        	"taskToken": 2,
-            "taskAccess": [2, 10]
+          "taskID": 35,
+          "taskTitle": "Decoding the Cipher",
+          "taskInfo": "need to вовремя decode cipher cybercriminal",
+          "taskDescription": "in нашей job нужны not only strong hands, but and quick brains.\nКиберпреступник оставил encrypted message, которое need to urgently decode. at you limited time, поэтому действуйте quickly — ошибка can стоить us всей операции.",
+          "taskMoney": 20000,
+          "taskPoint": 20,
+          "taskToken": 2,
+          "taskAccess": [
+            2,
+            10
+          ]
         }
       ]
     },
     {
-      "fractionID":11,
-      "taskList":
-      [
+      "fractionID": 11,
+      "taskList": [
         {
-            "taskID": 0,
-        	"taskTitle": "Пройти тестирование",
-        	"taskInfo": "Нужно пройти тестирование, чтобы повыситься до 2-го ранга.",
-        	"taskDescription": "Пройдите тестирование на знание Устава организации. Выберите пункт \"Документы\", и после прочтения нажмите \"Ознакомлен\" у каждого пункта.",
-        	"taskMoney": 0,
-        	"taskPoint": 50,
-        	"taskToken": 0,
-            "taskAccess": [1, 1]
+          "taskID": 0,
+          "taskTitle": "Complete the test",
+          "taskInfo": "Complete the test to get promoted to rank 2.",
+          "taskDescription": "complete test on knowledge Устава organisation. choose option \"documents\", and after reading press \"Ознакомлен\" at each item.",
+          "taskMoney": 0,
+          "taskPoint": 50,
+          "taskToken": 0,
+          "taskAccess": [
+            1,
+            1
+          ]
         },
         {
-        	"taskID": 36,
-        	"taskTitle": "Патруль",
-        	"taskInfo": "Необходимо патрулировать территорию организации целые 30 минут.",
-        	"taskDescription": "Вам необходимо патрулировать в служебной форме территорию тюрьмы на протяжении 30 минут, чтобы пройти испытание дежурного.",
-        	"taskMoney": 10000,
-        	"taskPoint": 5,
-        	"taskToken": 1,
-            "taskAccess": [2, 10]
+          "taskID": 36,
+          "taskTitle": "Patrol",
+          "taskInfo": "need to patrol territory organisation целые 30 minutes.",
+          "taskDescription": "you need to patrol in service uniform territory prison on протяжении 30 minutes, so that complete испытание дежурного.",
+          "taskMoney": 10000,
+          "taskPoint": 5,
+          "taskToken": 1,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 37,
-        	"taskTitle": "Караул",
-        	"taskInfo": "Необходимо отстоять 30 минут на любой постовой вышке.",
-        	"taskDescription": "Охрана территории тюрьмы и наблюдение за ее безопасностью – это одно из самых главных обязательств всех сотрудников.\n\nВам необходимо занять любой свободный пост на территории тюрьмы и простоять на нем тридцать минут.",
-        	"taskMoney": 10000,
-        	"taskPoint": 5,
-        	"taskToken": 5,
-            "taskAccess": [2, 10]
+          "taskID": 37,
+          "taskTitle": "Guard Duty",
+          "taskInfo": "need to stand guard 30 minutes on any guard tower.",
+          "taskDescription": "security territory prison and monitoring for her безопасностью – this одно from самых главных обязательств everyone staff.\n\nyou need to take any available post on territory prison and простоять on нем тридцать minutes.",
+          "taskMoney": 10000,
+          "taskPoint": 5,
+          "taskToken": 5,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 38,
-        	"taskTitle": "Санитар",
-        	"taskInfo": "Необходимо вылечить 5 пациентов в лазарете организации.",
-        	"taskDescription": "Самая основная и главная обязанность медицинских сотрудников лазарета – это оказание квалифицированной и своевременной медицинской помощи всем, кто в ней нуждается.\n\nТебе необходимо вылечить 5 пациентов, которые находятся в лазарете тюрьмы и нуждаются в медицинской помощи.",
-        	"taskMoney": 10000,
-        	"taskPoint": 5,
-        	"taskToken": 1,
-            "taskAccess": [2, 10]
+          "taskID": 38,
+          "taskTitle": "Medic",
+          "taskInfo": "need to вылечить 5 пациентов in лазарете organisation.",
+          "taskDescription": "the main основная and main обязанность medical staff лазарета – this оказание квалифицированной and своевременной медицинской assistance всем, who in ней нуждается.\n\nyou need to вылечить 5 пациентов, which находятся in лазарете prison and нуждаются in медицинской assistance.",
+          "taskMoney": 10000,
+          "taskPoint": 5,
+          "taskToken": 1,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 39,
-        	"taskTitle": "По следам",
-        	"taskInfo": "Предотвратите побег из тюрьмы поймав или убив беглеца.",
-        	"taskDescription": "Охрана территории тюрьмы и наблюдение за ее безопасностью – это одно из самых главных обязательств всех сотрудников.\n\nИногда заключенные совершают попытки побегов из тюрьмы. Ваша задача поймать или убить одного беглеца.",
-        	"taskMoney": 10000,
-        	"taskPoint": 5,
-        	"taskToken": 1,
-            "taskAccess": [2, 10]
+          "taskID": 39,
+          "taskTitle": "On the Trail",
+          "taskInfo": "Предотвратите побег from prison поймав or убив беглеца.",
+          "taskDescription": "security territory prison and monitoring for her безопасностью – this одно from самых главных обязательств everyone staff.\n\nsometimes заключенные совершают попытки побегов from prison. your задача поймать or kill одного беглеца.",
+          "taskMoney": 10000,
+          "taskPoint": 5,
+          "taskToken": 1,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 40,
-        	"taskTitle": "Сыщик",
-        	"taskInfo": "Необходимо вскрыть 1 общий тайник в камере для заключенных.",
-        	"taskDescription": "В камерах заключенных иногда можно найти скрытые тайники, в которых заключенные порой хранят нелегальные предметы. Вам необходимо найти и вскрыть один из тайников.",
-        	"taskMoney": 10000,
-        	"taskPoint": 5,
-        	"taskToken": 1,
-            "taskAccess": [2, 10]
+          "taskID": 40,
+          "taskTitle": "Сыщик",
+          "taskInfo": "need to вскрыть 1 общий тайник in камере for prisoners.",
+          "taskDescription": "in камерах prisoners sometimes can find скрытые тайники, in which заключенные порой хранят нелегальные предметы. you need to find and вскрыть one from тайников.",
+          "taskMoney": 10000,
+          "taskPoint": 5,
+          "taskToken": 1,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 41,
-        	"taskTitle": "Всегда на чеку",
-        	"taskInfo": "Необходимо обыскать 5 заключенных на территории тюрьмы.",
-        	"taskDescription": "Заключенные очень часто занимаются незаконной самодеятельностью и делают нелегальные предметы на территории тюрьмы, которые впоследствии стараются спрятать при себе. Ваша задача обыскать пятерых заключенных и выявить нарушителей.",
-        	"taskMoney": 10000,
-        	"taskPoint": 5,
-        	"taskToken": 1,
-            "taskAccess": [2, 10]
+          "taskID": 41,
+          "taskTitle": "Always Alert",
+          "taskInfo": "need to обыскать 5 prisoners on territory prison.",
+          "taskDescription": "Заключенные very часто занимаются незаконной самодеятельностью and делают нелегальные предметы on territory prison, which впоследствии стараются спрятать when себе. your задача обыскать пятерых prisoners and выявить нарушителей.",
+          "taskMoney": 10000,
+          "taskPoint": 5,
+          "taskToken": 1,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 42,
-        	"taskTitle": "Конвоир",
-        	"taskInfo": "Необходимо перевезти заключенного из КПЗ в тюрьму.",
-        	"taskDescription": "Транспортировка заключенных из изолятора временного содержания (КПЗ) в тюрьму – это одна из самых главных обязанностей всех сотрудников тюрьмы.\n\nВаша задача доставить любого заключенного из изолятора временного содержания в тюрьму.",
-        	"taskMoney": 10000,
-        	"taskPoint": 5,
-        	"taskToken": 1,
-            "taskAccess": [2, 10]
+          "taskID": 42,
+          "taskTitle": "Prisoner Transport Officer",
+          "taskInfo": "need to перевезти заключенного from КПЗ in prison.",
+          "taskDescription": "Транспортировка prisoners from изолятора временного содержания (КПЗ) in prison – this одна from самых главных обязанностей everyone staff prison.\n\nyour задача deliver any заключенного from изолятора временного содержания in prison.",
+          "taskMoney": 10000,
+          "taskPoint": 5,
+          "taskToken": 1,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 43,
-        	"taskTitle": "Хранитель порядка",
-        	"taskInfo": "Необходимо выдать поощрение или выговор 5 заключенным.",
-        	"taskDescription": "Иногда заключенные могут вести себя хорошо, за что получают всеразличные поощрения, а иногда заключенные могут вести себя неподобающе, за что получают выговоры.\n\nВаша задача выдать поощрение или выговор пятерым заключенным.",
-        	"taskMoney": 10000,
-        	"taskPoint": 5,
-        	"taskToken": 1,
-            "taskAccess": [2, 10]
+          "taskID": 43,
+          "taskTitle": "Keeper of Order",
+          "taskInfo": "need to issue поощрение or выговор 5 заключенным.",
+          "taskDescription": "sometimes заключенные can вести себя well, for what получают всеразличные поощрения, and sometimes заключенные can вести себя неподобающе, for what получают выговоры.\n\nyour задача issue поощрение or выговор пятерым заключенным.",
+          "taskMoney": 10000,
+          "taskPoint": 5,
+          "taskToken": 1,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 44,
-        	"taskTitle": "Черные дела",
-        	"taskInfo": "Необходимо выкрасть личное дело заключенного.",
-        	"taskDescription": "В нашей области есть уважаемые люди, которые готовы заплатить немаленькие денежки за личное дело одного из заключенных тюрьмы. Задача весьма опасная и уголовно наказуемая, но если сделать все тихо и аккуратно – никто даже не узнает.\n\nВаша задача выкрасть личное дело одного из заключенных тюрьмы из архива УМВД.",
-        	"taskMoney": 15000,
-        	"taskPoint": -20,
-        	"taskToken": 0,
-            "taskAccess": [2, 10]
+          "taskID": 44,
+          "taskTitle": "Dirty Business",
+          "taskInfo": "need to выкрасть personal дело заключенного.",
+          "taskDescription": "in нашей region is уважаемые люди, which ready заплатить немаленькие денежки for personal дело одного from prisoners prison. Задача весьма dangerous and уголовно наказуемая, but if do all тихо and аккуратно – никто даже not узнает.\n\nyour задача выкрасть personal дело одного from prisoners prison from архива УМВД.",
+          "taskMoney": 15000,
+          "taskPoint": -20,
+          "taskToken": 0,
+          "taskAccess": [
+            2,
+            10
+          ]
         },
         {
-        	"taskID": 45,
-        	"taskTitle": "Соучастник",
-        	"taskInfo": "Необходимо потерять ключ от автозака.",
-        	"taskDescription": "В нашей области есть уважаемые люди, которые заинтересованы в том, чтобы получить ключ от одного из автозаков тюрьмы.\n\nВаша задача целенаправленно потерпеть поражение при нападении на автозак с перевозимым заключенным.",
-        	"taskMoney": 15000,
-        	"taskPoint": -20,
-        	"taskToken": 0,
-            "taskAccess": [2, 10]
+          "taskID": 45,
+          "taskTitle": "Accomplice",
+          "taskInfo": "need to потерять ключ from автозака.",
+          "taskDescription": "in нашей region is уважаемые люди, which заинтересованы in том, so that receive ключ from одного from автозаков prison.\n\nyour задача целенаправленно потерпеть поражение when attack on автозак with перевозимым заключенным.",
+          "taskMoney": 15000,
+          "taskPoint": -20,
+          "taskToken": 0,
+          "taskAccess": [
+            2,
+            10
+          ]
         }
       ]
     }

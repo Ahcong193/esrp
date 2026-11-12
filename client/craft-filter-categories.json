@@ -1,64 +1,64 @@
-﻿{
+{
   "categoriesFilters": [
     {
       "categoryFilterId": 1,
-      "categoryFilterName": "Редкость",
+      "categoryFilterName": "Kelangkaan",
       "filters": [
         {
           "filterId": 1,
-          "filterName": "Обычные",
+          "filterName": "Biasa",
           "color": "#FDFDFD"
         },
         {
           "filterId": 2,
-          "filterName": "Необычные",
+          "filterName": "Luar Biasa",
           "color": "#12DD00"
         },
         {
           "filterId": 3,
-          "filterName": "Редкие",
+          "filterName": "Jarang",
           "color": "#3EA2FF"
         },
         {
           "filterId": 4,
-          "filterName": "Эпические",
+          "filterName": "Epik",
           "color": "#C173FE"
         },
         {
           "filterId": 5,
-          "filterName": "Легендарные",
+          "filterName": "Legenda",
           "color": "#FFCC00"
         }
       ]
     },
     {
       "categoryFilterId": 2,
-      "categoryFilterName": "Ресурсы",
+      "categoryFilterName": "Sumber",
       "filters": [
         {
           "filterId": 6,
-          "filterName": "Есть ресурсы",
+          "filterName": "Ada sumber",
           "color": "#FDFDFD"
         },
         {
           "filterId": 7,
-          "filterName": "Нет ресурсов",
+          "filterName": "Tiada sumber",
           "color": "#FDFDFD"
         }
       ]
     },
     {
       "categoryFilterId": 3,
-      "categoryFilterName": "Доступность",
+      "categoryFilterName": "Ketersediaan",
       "filters": [
         {
           "filterId": 8,
-          "filterName": "Открыто",
+          "filterName": "Dibuka",
           "color": "#FDFDFD"
         },
         {
           "filterId": 9,
-          "filterName": "Закрыто",
+          "filterName": "Ditutup",
           "color": "#FDFDFD"
         }
       ]

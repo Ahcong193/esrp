@@ -1,24 +1,24 @@
-﻿{
+{
   "lowClass": [
     {
       "id": 1,
-      "name": "ЗАЗ 968M",
-      "name_store": "АЗ 968"
+      "name": "ZAZ 968M",
+      "name_store": "AZ 968"
     },
     {
       "id": 2,
-      "name": "ВАЗ 1111",
-      "name_store": "АЗ 1111"
+      "name": "VAZ 1111",
+      "name_store": "AZ 1111"
     },
     {
       "id": 3,
-      "name": "ВАЗ 2101",
-      "name_store": "Копейка"
+      "name": "VAZ 2101",
+      "name_store": "Kopeyka"
     },
     {
       "id": 4,
-      "name": "Волга 2410",
-      "name_store": "АЗ 2140"
+      "name": "Volga 2410",
+      "name_store": "AZ 2140"
     },
     {
       "id": 5,
@@ -27,18 +27,18 @@
     },
     {
       "id": 6,
-      "name": "ВАЗ 2107",
-      "name_store": "Семерка"
+      "name": "VAZ 2107",
+      "name_store": "Semerka"
     },
     {
       "id": 7,
-      "name": "ВАЗ 2114",
-      "name_store": "Четырка"
+      "name": "VAZ 2114",
+      "name_store": "Chetyrka"
     },
     {
       "id": 8,
-      "name": "ВАЗ 2115",
-      "name_store": "Пятнашка"
+      "name": "VAZ 2115",
+      "name_store": "Pyatnashka"
     },
     {
       "id": 9,
@@ -47,8 +47,8 @@
     },
     {
       "id": 10,
-      "name": "LADA Приора",
-      "name_store": "АЗ 2170"
+      "name": "LADA Priora",
+      "name_store": "AZ 2170"
     },
     {
       "id": 11,
@@ -57,8 +57,8 @@
     },
     {
       "id": 12,
-      "name": "Нива Urban",
-      "name_store": "Родина 4x4"
+      "name": "Niva Urban",
+      "name_store": "Rodina 4x4"
     },
     {
       "id": 13,
@@ -93,7 +93,7 @@
     {
       "id": 19,
       "name": "Lada Granta",
-      "name_store": "АЗ Граната"
+      "name_store": "AZ Granata"
     }
   ],
   "middleClass": [
@@ -154,7 +154,7 @@
     },
     {
       "id": 12,
-      "name": "UAZ Patriot (Пикап)",
+      "name": "UAZ Patriot (Pikap)",
       "name_store": "Motherland Pickup"
     },
     {
@@ -247,7 +247,7 @@
     {
       "id": 3,
       "name": "BMW Z4 M40i",
-      "name_store": "Boomer 4 Кабриолет"
+      "name_store": "Boomer 4 Cabriolet"
     },
     {
       "id": 4,
@@ -286,7 +286,7 @@
     },
     {
       "id": 11,
-      "name": "Cadillac Escalade (Старый)",
+      "name": "Cadillac Escalade (Lama)",
       "name_store": "Escaludore"
     },
     {
@@ -311,7 +311,7 @@
     },
     {
       "id": 16,
-      "name": "Audi RS6 (Дорест)",
+      "name": "Audi RS6 (Pra-facelift)",
       "name_store": "Aura Road 6"
     },
     {
@@ -341,7 +341,7 @@
     },
     {
       "id": 22,
-      "name": "Audi RS6 (Рест)",
+      "name": "Audi RS6 (Facelift)",
       "name_store": "Aura Road 6 C7"
     },
     {
@@ -478,7 +478,7 @@
   "motoClass": [
     {
       "id": 1,
-      "name": "Скутер",
+      "name": "Skuter",
       "name_store": "Moto Light"
     },
     {
@@ -525,33 +525,33 @@
   "uniqueClass": [
     {
       "id": 1,
-      "name": "Mercedes-Benz СМИ",
-      "name_store": "M Sprint ГТРК"
+      "name": "Mercedes-Benz Media",
+      "name_store": "M Sprint Media"
     },
     {
       "id": 2,
-      "name": "LADA Приора (ППС)",
-      "name_store": "АЗ 2170 ППС"
+      "name": "LADA Priora (Polis)",
+      "name_store": "AZ 2170 Polis"
     },
     {
       "id": 3,
-      "name": "ГАЗ ТИГР",
-      "name_store": "АЗ Тигр"
+      "name": "GAZ TIGR",
+      "name_store": "AZ Tigr"
     },
     {
       "id": 4,
-      "name": "Mercedes-Benz СКОРАЯ",
-      "name_store": "M Sprint СМП"
+      "name": "Mercedes-Benz AMBULANS",
+      "name_store": "M Sprint Ambulans"
     },
     {
       "id": 5,
-      "name": "Volkswagen Jetta (ППС)",
-      "name_store": "Gretta ППС"
+      "name": "Volkswagen Jetta (Polis)",
+      "name_store": "Gretta Polis"
     },
     {
       "id": 6,
-      "name": "BMW M5 F90 (ППС)",
-      "name_store": "Boomer 5 F90 ППС"
+      "name": "BMW M5 F90 (Polis)",
+      "name_store": "Boomer 5 F90 Polis"
     },
     {
       "id": 7,
@@ -580,130 +580,130 @@
     },
     {
       "id": 12,
-      "name": "ГАЗ-69",
-      "name_store": "АЗ 69"
+      "name": "GAZ-69",
+      "name_store": "AZ 69"
     }
   ],
   "accessories": [
     {
       "id": 1,
-      "name": "Рюкзак LV",
-      "name_store": "Рюкзак"
+      "name": "Beg Galas LV",
+      "name_store": "Beg Galas"
     },
     {
       "id": 2,
-      "name": "Рюкзак Nike(желтый)",
-      "name_store": "Рюкзак Желтый"
+      "name": "Beg Galas Nike(kuning)",
+      "name_store": "Beg Galas Kuning"
     },
     {
       "id": 3,
-      "name": "Рюкзак Puma(фиолетовый)",
-      "name_store": "Рюкзак Фиолетовый"
+      "name": "Beg Galas Puma(ungu)",
+      "name_store": "Beg Galas Ungu"
     },
     {
       "id": 4,
-      "name": "Поясная сумка Gucci",
-      "name_store": "Поясная сумка"
+      "name": "Beg Pinggang Gucci",
+      "name_store": "Beg Pinggang"
     },
     {
       "id": 5,
-      "name": "Спортивная сумка Supreme",
-      "name_store": "Спортивная сумка красная"
+      "name": "Beg Sukan Supreme",
+      "name_store": "Beg Sukan Merah"
     },
     {
       "id": 6,
-      "name": "Рюкзак Gucci(разноцветный)",
-      "name_store": "Рюкзак разноцветный"
+      "name": "Beg Galas Gucci(berwarna-warni)",
+      "name_store": "Beg Galas Berwarna-warni"
     },
     {
       "id": 7,
-      "name": "Сумка Gucci(с павлином)",
-      "name_store": "Сумка с павлином"
+      "name": "Beg Gucci(burung merak)",
+      "name_store": "Beg Burung Merak"
     },
     {
       "id": 8,
-      "name": "Кепка Gucci(красная)",
-      "name_store": "Кепка красная"
+      "name": "Topi Gucci(merah)",
+      "name_store": "Topi Merah"
     },
     {
       "id": 9,
-      "name": "Кепка Россия(белая)"
+      "name": "Topi Russia(putih)"
     },
     {
       "id": 10,
-      "name": "Кепка Спартак(белая)"
+      "name": "Topi Spartak(putih)"
     },
     {
       "id": 11,
-      "name": "Кепка BlackRussia(черная)"
+      "name": "Topi BlackRussia(hitam)"
     },
     {
       "id": 12,
-      "name": "Кепка ЦСКА(черная)"
+      "name": "Topi CSKA(hitam)"
     },
     {
       "id": 13,
-      "name": "Авиаторы с фиол. линзами"
+      "name": "Cermin Mata Aviator Kanta Ungu"
     },
     {
       "id": 14,
-      "name": "Маленькие авиаторы с фиол. линзами"
+      "name": "Cermin Mata Aviator Kecil Kanta Ungu"
     },
     {
       "id": 15,
-      "name": "Черные очки с черными линзами"
+      "name": "Cermin Mata Hitam Kanta Hitam"
     },
     {
       "id": 16,
-      "name": "Маленькие авиаторы с черными линзами"
+      "name": "Cermin Mata Aviator Kecil Kanta Hitam"
     },
     {
       "id": 17,
-      "name": "Черные очки с прозрачными линзами"
+      "name": "Cermin Mata Hitam Kanta Jernih"
     },
     {
       "id": 18,
-      "name": "Поясная сумка Nike",
-      "name_store": "Поясная сумка"
+      "name": "Beg Pinggang Nike",
+      "name_store": "Beg Pinggang"
     },
     {
       "id": 19,
-      "name": "Поясная сумка TheNorthFace",
-      "name_store": "Поясная сумка"
+      "name": "Beg Pinggang TheNorthFace",
+      "name_store": "Beg Pinggang"
     },
     {
       "id": 20,
-      "name": "Поясная сумка LV",
-      "name_store": "Поясная сумка"
+      "name": "Beg Pinggang LV",
+      "name_store": "Beg Pinggang"
     },
     {
       "id": 21,
-      "name": "Apple Watch 5 series (черные)",
-      "name_store": "Часы черные"
+      "name": "Apple Watch 5 series (hitam)",
+      "name_store": "Jam Tangan Hitam"
     },
     {
       "id": 22,
-      "name": "Apple Watch 5 series (белые)",
-      "name_store": "Часы белые"
+      "name": "Apple Watch 5 series (putih)",
+      "name_store": "Jam Tangan Putih"
     },
     {
       "id": 23,
-      "name": "Часы 'Silver Casio'",
-      "name_store": "Часы серебряные"
+      "name": "Jam Tangan 'Silver Casio'",
+      "name_store": "Jam Tangan Perak"
     },
     {
       "id": 24,
-      "name": "Часы 'Black Casio'",
-      "name_store": "Часы черные"
+      "name": "Jam Tangan 'Black Casio'",
+      "name_store": "Jam Tangan Hitam"
     },
     {
       "id": 25,
-      "name": "Часы 'Gold Casio'",
-      "name_store": "Часы золотые"
+      "name": "Jam Tangan 'Gold Casio'",
+      "name_store": "Jam Tangan Emas"
     },
     {
       "id": 26,
-      "name": "Акустическая гитара"
+      "name": "Gitar Akustik"
     },
     {
       "id": 27,
@@ -715,927 +715,927 @@
     },
     {
       "id": 29,
-      "name": "Скейт Tony Hawk",
-      "name_store": "Скейт"
+      "name": "Papan Selaju Tony Hawk",
+      "name_store": "Papan Selaju"
     },
     {
       "id": 30,
-      "name": "Скейт HooPla",
-      "name_store": "Скейт"
+      "name": "Papan Selaju HooPla",
+      "name_store": "Papan Selaju"
     },
     {
       "id": 31,
-      "name": "Доска - скейтборд"
+      "name": "Papan Selaju"
     },
     {
       "id": 32,
-      "name": "Скейт Rise",
-      "name_store": "Скейт"
+      "name": "Papan Selaju Rise",
+      "name_store": "Papan Selaju"
     },
     {
       "id": 33,
-      "name": "Женская сумка (черная)"
+      "name": "Beg Wanita (hitam)"
     },
     {
       "id": 34,
-      "name": "Женская сумка (оранжевая)"
+      "name": "Beg Wanita (jingga)"
     },
     {
       "id": 35,
-      "name": "Женская сумка (красная)"
+      "name": "Beg Wanita (merah)"
     },
     {
       "id": 36,
-      "name": "Женская сумка (голубая)"
+      "name": "Beg Wanita (biru muda)"
     },
     {
       "id": 37,
-      "name": "Женская сумка (зеленая)"
+      "name": "Beg Wanita (hijau)"
     },
     {
       "id": 38,
-      "name": "Женская сумка (фиолетовая)"
+      "name": "Beg Wanita (ungu)"
     },
     {
       "id": 39,
-      "name": "Маска 'Black Cute'"
+      "name": "Topeng 'Black Cute'"
     },
     {
       "id": 40,
-      "name": "Маска 'White Cute'"
+      "name": "Topeng 'White Cute'"
     },
     {
       "id": 41,
-      "name": "Маска 'Anti Social Club'"
+      "name": "Topeng 'Anti Social Club'"
     },
     {
       "id": 42,
-      "name": "Маска 'Purple Smile'"
+      "name": "Topeng 'Purple Smile'"
     },
     {
       "id": 43,
-      "name": "Маска 'Red Smile'"
+      "name": "Topeng 'Red Smile'"
     },
     {
       "id": 44,
-      "name": "Маска 'Black Smile'"
+      "name": "Topeng 'Black Smile'"
     },
     {
       "id": 45,
-      "name": "Белая маска"
+      "name": "Topeng Putih"
     },
     {
       "id": 46,
-      "name": "Черная маска"
+      "name": "Topeng Hitam"
     },
     {
       "id": 47,
-      "name": "Сумка Gucci(с павлином)",
-      "name_store": "Сумка с павлином"
+      "name": "Beg Gucci(burung merak)",
+      "name_store": "Beg Burung Merak"
     },
     {
       "id": 48,
-      "name": "BlackRussia маска (черная)"
+      "name": "Topeng BlackRussia (hitam)"
     },
     {
       "id": 49,
-      "name": "BlackRussia маска (белая)"
+      "name": "Topeng BlackRussia (putih)"
     },
     {
       "id": 50,
-      "name": "Фиолетовая призрачная кепка"
+      "name": "Topi Hantu Ungu"
     },
     {
       "id": 51,
-      "name": "Красная призрачная кепка"
+      "name": "Topi Hantu Merah"
     },
     {
       "id": 52,
-      "name": "Голубая призрачная кепка"
+      "name": "Topi Hantu Biru Muda"
     },
     {
       "id": 53,
-      "name": "Рюкзак 'Scared Smile' (Голубой)"
+      "name": "Beg Galas 'Scared Smile' (Biru Muda)"
     },
     {
       "id": 54,
-      "name": "Рюкзак 'Scared Smile' (Фиолетовый)"
+      "name": "Beg Galas 'Scared Smile' (Ungu)"
     },
     {
       "id": 55,
-      "name": "Рюкзак 'Scared Smile' (Красный)"
+      "name": "Beg Galas 'Scared Smile' (Merah)"
     },
     {
       "id": 56,
-      "name": "Хоккейная маска"
+      "name": "Topeng Hoki"
     },
     {
       "id": 57,
-      "name": "Зеленая маска зомби"
+      "name": "Topeng Zombi Hijau"
     },
     {
       "id": 58,
-      "name": "Красная маска дьявола"
+      "name": "Topeng Syaitan Merah"
     },
     {
       "id": 59,
-      "name": "Оранжевая маска дьявола"
+      "name": "Topeng Syaitan Jingga"
     },
     {
       "id": 60,
-      "name": "Черная маска дьявола"
+      "name": "Topeng Syaitan Hitam"
     },
     {
       "id": 61,
-      "name": "Темная маска тыквы"
+      "name": "Topeng Labu Gelap"
     },
     {
       "id": 62,
-      "name": "Зеленая маска тыквы"
+      "name": "Topeng Labu Hijau"
     },
     {
       "id": 63,
-      "name": "Оранжевая маска тыквы"
+      "name": "Topeng Labu Jingga"
     },
     {
       "id": 64,
-      "name": "Маска зомби"
+      "name": "Topeng Zombi"
     },
     {
       "id": 65,
-      "name": "Новогодняя шапка"
+      "name": "Topi Musim Sejuk Tahun Baru"
     },
     {
       "id": 66,
-      "name": "Шапка Hello Kitty"
+      "name": "Topi Musim Sejuk Hello Kitty"
     },
     {
       "id": 67,
-      "name": "Новогодний шарф"
+      "name": "Skarf Tahun Baru"
     },
     {
       "id": 68,
-      "name": "Зимняя шапка"
+      "name": "Topi Musim Sejuk"
     },
     {
       "id": 69,
-      "name": "Маска снеговика"
+      "name": "Topeng Orang Salji"
     },
     {
       "id": 70,
-      "name": "Серая шапка Adidas",
-      "name_store": "Серая шапка"
+      "name": "Topi Musim Sejuk Adidas Kelabu",
+      "name_store": "Topi Musim Sejuk Kelabu"
     },
     {
       "id": 71,
-      "name": "Красная шапка Adidas",
-      "name_store": "Красная шапка"
+      "name": "Topi Musim Sejuk Adidas Merah",
+      "name_store": "Topi Musim Sejuk Merah"
     },
     {
       "id": 72,
-      "name": "Черная шапка Adidas",
-      "name_store": "Черная шапка"
+      "name": "Topi Musim Sejuk Adidas Hitam",
+      "name_store": "Topi Musim Sejuk Hitam"
     },
     {
       "id": 73,
-      "name": "Красная шапка Nike",
-      "name_store": "Красная шапка"
+      "name": "Topi Musim Sejuk Nike Merah",
+      "name_store": "Topi Musim Sejuk Merah"
     },
     {
       "id": 74,
-      "name": "Черная шапка Nike",
-      "name_store": "Черная шапка"
+      "name": "Topi Musim Sejuk Nike Hitam",
+      "name_store": "Topi Musim Sejuk Hitam"
     },
     {
       "id": 75,
-      "name": "Серая шапка Nike",
-      "name_store": "Серая шапка"
+      "name": "Topi Musim Sejuk Nike Kelabu",
+      "name_store": "Topi Musim Sejuk Kelabu"
     },
     {
       "id": 76,
-      "name": "Берет Gucci",
-      "name_store": "Берет"
+      "name": "Beret Gucci",
+      "name_store": "Beret"
     },
     {
       "id": 77,
-      "name": "Деревянный посох"
+      "name": "Tongkat Kayu"
     },
     {
       "id": 78,
-      "name": "Зеленая шапка с помпоном"
+      "name": "Topi Musim Sejuk Hijau dengan Pom-pom"
     },
     {
       "id": 79,
-      "name": "Оранжевая шапка с помпоном"
+      "name": "Topi Musim Sejuk Jingga dengan Pom-pom"
     },
     {
       "id": 80,
-      "name": "Черная шапка Calvin Klein",
-      "name_store": "Черная шапка"
+      "name": "Topi Musim Sejuk Calvin Klein Hitam",
+      "name_store": "Topi Musim Sejuk Hitam"
     },
     {
       "id": 81,
-      "name": "Синяя шапка Calvin Klein",
-      "name_store": "Синяя шапка"
+      "name": "Topi Musim Sejuk Calvin Klein Biru",
+      "name_store": "Topi Musim Sejuk Biru"
     },
     {
       "id": 82,
-      "name": "Красная шапка Calvin Klein",
-      "name_store": "Красная шапка"
+      "name": "Topi Musim Sejuk Calvin Klein Merah",
+      "name_store": "Topi Musim Sejuk Merah"
     },
     {
       "id": 83,
-      "name": "Оранжевая шапка Calvin Klein",
-      "name_store": "Оранжевая шапка"
+      "name": "Topi Musim Sejuk Calvin Klein Jingga",
+      "name_store": "Topi Musim Sejuk Jingga"
     },
     {
       "id": 84,
-      "name": "Серая шапка Calvin Klein",
-      "name_store": "Серая шапка"
+      "name": "Topi Musim Sejuk Calvin Klein Kelabu",
+      "name_store": "Topi Musim Sejuk Kelabu"
     },
     {
       "id": 85,
-      "name": "Фиолетовая шапка Calvin Klein",
-      "name_store": "Фиолетовая шапка"
+      "name": "Topi Musim Sejuk Calvin Klein Ungu",
+      "name_store": "Topi Musim Sejuk Ungu"
     },
     {
       "id": 86,
-      "name": "Зеленый Calvin Klein",
-      "name_store": "Зеленая шапка"
+      "name": "Calvin Klein Hijau",
+      "name_store": "Topi Musim Sejuk Hijau"
     },
     {
       "id": 87,
-      "name": "Карамельная конфета"
+      "name": "Gula-gula Karamel"
     },
     {
       "id": 88,
-      "name": "Черная зимняя кепка"
+      "name": "Topi Musim Sejuk Hitam"
     },
     {
       "id": 89,
-      "name": "Камуфляжная зимняя кепка"
+      "name": "Topi Musim Sejuk Samaran"
     },
     {
       "id": 90,
-      "name": "Красная зимняя кепка"
+      "name": "Topi Musim Sejuk Merah"
     },
     {
       "id": 91,
-      "name": "Зеленая зимняя кепка"
+      "name": "Topi Musim Sejuk Hijau"
     },
     {
       "id": 92,
-      "name": "Синяя зимняя кепка"
+      "name": "Topi Musim Sejuk Biru"
     },
     {
       "id": 93,
-      "name": "Коричневая зимняя кепка"
+      "name": "Topi Musim Sejuk Coklat"
     },
     {
       "id": 94,
-      "name": "Белая панама с сигарой"
+      "name": "Topi Bucket Putih dengan Cerut"
     },
     {
       "id": 95,
-      "name": "Красный зимний рюкзак"
+      "name": "Beg Galas Musim Sejuk Merah"
     },
     {
       "id": 96,
-      "name": "Синий зимний рюкзак"
+      "name": "Beg Galas Musim Sejuk Biru"
     },
     {
       "id": 97,
-      "name": "Зеленый зимний рюкзак"
+      "name": "Beg Galas Musim Sejuk Hijau"
     },
     {
       "id": 98,
-      "name": "Красная шапка Puma",
-      "name_store": "Красная шапка"
+      "name": "Topi Musim Sejuk Puma Merah",
+      "name_store": "Topi Musim Sejuk Merah"
     },
     {
       "id": 99,
-      "name": "Черная шапка Puma",
-      "name_store": "Черная шапка"
+      "name": "Topi Musim Sejuk Puma Hitam",
+      "name_store": "Topi Musim Sejuk Hitam"
     },
     {
       "id": 100,
-      "name": "Желтая шапка Puma",
-      "name_store": "Желтая шапка"
+      "name": "Topi Musim Sejuk Puma Kuning",
+      "name_store": "Topi Musim Sejuk Kuning"
     },
     {
       "id": 101,
-      "name": "Белая шапка Puma",
-      "name_store": "Белая шапка"
+      "name": "Topi Musim Sejuk Puma Putih",
+      "name_store": "Topi Musim Sejuk Putih"
     },
     {
       "id": 102,
-      "name": "Зеленая шапка Puma",
-      "name_store": "Зеленая шапка"
+      "name": "Topi Musim Sejuk Puma Hijau",
+      "name_store": "Topi Musim Sejuk Hijau"
     },
     {
       "id": 103,
-      "name": "Синяя шапка Puma",
-      "name_store": "Синяя шапка"
+      "name": "Topi Musim Sejuk Puma Biru",
+      "name_store": "Topi Musim Sejuk Biru"
     },
     {
       "id": 104,
-      "name": "Белая панама Gucci",
-      "name_store": "Белая панама"
+      "name": "Topi Bucket Gucci Putih",
+      "name_store": "Topi Bucket Putih"
     },
     {
       "id": 105,
-      "name": "Черная панама Gucci",
-      "name_store": "Черная панама"
+      "name": "Topi Bucket Gucci Hitam",
+      "name_store": "Topi Bucket Hitam"
     },
     {
       "id": 106,
-      "name": "Черная панама Adidas",
-      "name_store": "Черная панама"
+      "name": "Topi Bucket Adidas Hitam",
+      "name_store": "Topi Bucket Hitam"
     },
     {
       "id": 107,
-      "name": "Синяя панама Adidas",
-      "name_store": "Синяя панама"
+      "name": "Topi Bucket Adidas Biru",
+      "name_store": "Topi Bucket Biru"
     },
     {
       "id": 108,
-      "name": "Красная панама Adidas",
-      "name_store": "Красная панама"
+      "name": "Topi Bucket Adidas Merah",
+      "name_store": "Topi Bucket Merah"
     },
     {
       "id": 109,
-      "name": "Низкая шапка желтая"
+      "name": "Topi Musim Sejuk Pendek Kuning"
     },
     {
       "id": 110,
-      "name": "Низкая шапка синяя"
+      "name": "Topi Musim Sejuk Pendek Biru"
     },
     {
       "id": 111,
-      "name": "Низкая шапка зеленая"
+      "name": "Topi Musim Sejuk Pendek Hijau"
     },
     {
       "id": 112,
-      "name": "Низкая шапка красная"
+      "name": "Topi Musim Sejuk Pendek Merah"
     },
     {
       "id": 113,
-      "name": "Низкая шапка серая"
+      "name": "Topi Musim Sejuk Pendek Kelabu"
     },
     {
       "id": 114,
-      "name": "Высокая панама Gucci",
-      "name_store": "Высокая панама"
+      "name": "Topi Bucket Gucci Tinggi",
+      "name_store": "Topi Bucket Tinggi"
     },
     {
       "id": 115,
-      "name": "Черная панама Nike",
-      "name_store": "Черная панама"
+      "name": "Topi Bucket Nike Hitam",
+      "name_store": "Topi Bucket Hitam"
     },
     {
       "id": 116,
-      "name": "Белая панама Nike",
-      "name_store": "Белая панама"
+      "name": "Topi Bucket Nike Putih",
+      "name_store": "Topi Bucket Putih"
     },
     {
       "id": 117,
-      "name": "Красная панама Nike",
-      "name_store": "Красная панама"
+      "name": "Topi Bucket Nike Merah",
+      "name_store": "Topi Bucket Merah"
     },
     {
       "id": 118,
-      "name": "Синяя панама Nike",
-      "name_store": "Синяя панама"
+      "name": "Topi Bucket Nike Biru",
+      "name_store": "Topi Bucket Biru"
     },
     {
       "id": 119,
-      "name": "Зеленая панама Nike",
-      "name_store": "Зеленая панама"
+      "name": "Topi Bucket Nike Hijau",
+      "name_store": "Topi Bucket Hijau"
     },
     {
       "id": 120,
-      "name": "Черная шапка LV",
-      "name_store": "Черная шапка"
+      "name": "Topi Musim Sejuk LV Hitam",
+      "name_store": "Topi Musim Sejuk Hitam"
     },
     {
       "id": 121,
-      "name": "Белая шапка LV",
-      "name_store": "Белая шапка"
+      "name": "Topi Musim Sejuk LV Putih",
+      "name_store": "Topi Musim Sejuk Putih"
     },
     {
       "id": 122,
-      "name": "Красная шапка LV",
-      "name_store": "Красная шапка"
+      "name": "Topi Musim Sejuk LV Merah",
+      "name_store": "Topi Musim Sejuk Merah"
     },
     {
       "id": 123,
-      "name": "Синяя шапка LV",
-      "name_store": "Синяя шапка"
+      "name": "Topi Musim Sejuk LV Biru",
+      "name_store": "Topi Musim Sejuk Biru"
     },
     {
       "id": 124,
-      "name": "Новогодний посох-зонт"
+      "name": "Tongkat Payung Tahun Baru"
     },
     {
       "id": 125,
-      "name": "Кандибобер красный"
+      "name": "Kandibober Merah"
     },
     {
       "id": 126,
-      "name": "Кандибобер синий"
+      "name": "Kandibober Biru"
     },
     {
       "id": 127,
-      "name": "Кандибобер желтый"
+      "name": "Kandibober Kuning"
     },
     {
       "id": 128,
-      "name": "Кандибобер серый"
+      "name": "Kandibober Kelabu"
     },
     {
       "id": 129,
-      "name": "Кандибобер розовый"
+      "name": "Kandibober Merah Jambu"
     },
     {
       "id": 130,
-      "name": "Серая панама обычная"
+      "name": "Topi Bucket Kelabu Biasa"
     },
     {
       "id": 131,
-      "name": "Красные наушники на голову"
+      "name": "Fon Kepala Merah"
     },
     {
       "id": 132,
-      "name": "Фиолетовые наушники на голову"
+      "name": "Fon Kepala Ungu"
     },
     {
       "id": 133,
-      "name": "Светлофиолетовые наушники на голову"
+      "name": "Fon Kepala Ungu Muda"
     },
     {
       "id": 134,
-      "name": "Желтые наушники на голову"
+      "name": "Fon Kepala Kuning"
     },
     {
       "id": 135,
-      "name": "Красные наушники на голову"
+      "name": "Fon Kepala Merah"
     },
     {
       "id": 136,
-      "name": "Серые наушники-пингвин с коричневым поводком"
+      "name": "Fon Kepala Penguin Kelabu dengan Tali Coklat"
     },
     {
       "id": 137,
-      "name": "Серые наушники-пингвин с серым поводком"
+      "name": "Fon Kepala Penguin Kelabu dengan Tali Kelabu"
     },
     {
       "id": 138,
-      "name": "Фиолетовые наушники-пингвин с коричневым поводком"
+      "name": "Fon Kepala Penguin Ungu dengan Tali Coklat"
     },
     {
       "id": 139,
-      "name": "Фиолетовые наушники-пингвин с серым поводком"
+      "name": "Fon Kepala Penguin Ungu dengan Tali Kelabu"
     },
     {
       "id": 140,
-      "name": "Синие наушники-пингвин с коричневым поводком"
+      "name": "Fon Kepala Penguin Biru dengan Tali Coklat"
     },
     {
       "id": 141,
-      "name": "Красные наушники-пингвин с коричневым поводком"
+      "name": "Fon Kepala Penguin Merah dengan Tali Coklat"
     },
     {
       "id": 142,
-      "name": "Зеленые наушники-пингвин с коричневым поводком"
+      "name": "Fon Kepala Penguin Hijau dengan Tali Coklat"
     },
     {
       "id": 143,
-      "name": "Желтые наушники-пингвин с коричневым поводком"
+      "name": "Fon Kepala Penguin Kuning dengan Tali Coklat"
     },
     {
       "id": 144,
-      "name": "Кремовые наушники-пингвин с коричневым поводком"
+      "name": "Fon Kepala Penguin Krim dengan Tali Coklat"
     },
     {
       "id": 145,
-      "name": "Синие наушники-пингвин с синим поводком"
+      "name": "Fon Kepala Penguin Biru dengan Tali Biru"
     },
     {
       "id": 146,
-      "name": "Красные наушники с красным поводком"
+      "name": "Fon Kepala Merah dengan Tali Merah"
     },
     {
       "id": 147,
-      "name": "Зеленые наушники-пингвин с зеленым поводком"
+      "name": "Fon Kepala Penguin Hijau dengan Tali Hijau"
     },
     {
       "id": 148,
-      "name": "Желтые наушники с желтым поводком"
+      "name": "Fon Kepala Kuning dengan Tali Kuning"
     },
     {
       "id": 149,
-      "name": "Фиолетовые наушники с ушками"
+      "name": "Fon Kepala Bertelinga Ungu"
     },
     {
       "id": 150,
-      "name": "Сиреневые наушники с ушками"
+      "name": "Fon Kepala Bertelinga Ungu Muda"
     },
     {
       "id": 151,
-      "name": "Оранжевые наушники с ушками"
+      "name": "Fon Kepala Bertelinga Jingga"
     },
     {
       "id": 152,
-      "name": "Синие наушники с ушками"
+      "name": "Fon Kepala Bertelinga Biru"
     },
     {
       "id": 153,
-      "name": "Красная зимняя кепка"
+      "name": "Topi Musim Sejuk Merah"
     },
     {
       "id": 154,
-      "name": "Зелено-синяя зимняя кепка"
+      "name": "Topi Musim Sejuk Hijau-Biru"
     },
     {
       "id": 155,
-      "name": "Светлая зимняя кепка"
+      "name": "Topi Musim Sejuk Cerah"
     },
     {
       "id": 156,
-      "name": "Сине-зелено-красная зимняя кепка"
+      "name": "Topi Musim Sejuk Biru-Hijau-Merah"
     },
     {
       "id": 157,
-      "name": "Красно-зеленая зимняя кепка"
+      "name": "Topi Musim Sejuk Merah-Hijau"
     },
     {
       "id": 158,
-      "name": "Коричневый шарф"
+      "name": "Skarf Coklat"
     },
     {
       "id": 159,
-      "name": "Синий шарф"
+      "name": "Skarf Biru"
     },
     {
       "id": 160,
-      "name": "Зеленый шарф"
+      "name": "Skarf Hijau"
     },
     {
       "id": 161,
-      "name": "Черный шарф"
+      "name": "Skarf Hitam"
     },
     {
       "id": 162,
-      "name": "Коричневый шарф"
+      "name": "Skarf Coklat"
     },
     {
       "id": 163,
-      "name": "Белый шарф"
+      "name": "Skarf Putih"
     },
     {
       "id": 164,
-      "name": "Черный шарф"
+      "name": "Skarf Hitam"
     },
     {
       "id": 165,
-      "name": "Шарф Gucci",
-      "name_store": "Шарф"
+      "name": "Skarf Gucci",
+      "name_store": "Skarf"
     },
     {
       "id": 166,
-      "name": "Синий посох со льдом"
+      "name": "Tongkat Biru Berais"
     },
     {
       "id": 167,
-      "name": "Синий посох со снежинкой"
+      "name": "Tongkat Biru dengan Emping Salji"
     },
     {
       "id": 168,
-      "name": "Голубой посох со льдом"
+      "name": "Tongkat Biru Muda Berais"
     },
     {
       "id": 169,
-      "name": "Коричневая шапка TNF",
-      "name_store": "Коричневая шапка"
+      "name": "Topi Musim Sejuk TNF Coklat",
+      "name_store": "Topi Musim Sejuk Coklat"
     },
     {
       "id": 170,
-      "name": "Черная шапка TNF",
-      "name_store": "Черная шапка"
+      "name": "Topi Musim Sejuk TNF Hitam",
+      "name_store": "Topi Musim Sejuk Hitam"
     },
     {
       "id": 171,
-      "name": "Белая шапка TNF",
-      "name_store": "Белая шапка"
+      "name": "Topi Musim Sejuk TNF Putih",
+      "name_store": "Topi Musim Sejuk Putih"
     },
     {
       "id": 172,
-      "name": "Синяя шапка TNF",
-      "name_store": "Синяя шапка"
+      "name": "Topi Musim Sejuk TNF Biru",
+      "name_store": "Topi Musim Sejuk Biru"
     },
     {
       "id": 173,
-      "name": "Зеленая шапка TNF",
-      "name_store": "Зеленая шапка"
+      "name": "Topi Musim Sejuk TNF Hijau",
+      "name_store": "Topi Musim Sejuk Hijau"
     },
     {
       "id": 174,
-      "name": "Красная шапка с помпоном и шариками"
+      "name": "Topi Musim Sejuk Merah dengan Pom-pom dan Bebola"
     },
     {
       "id": 175,
-      "name": "Салатовая шапка с помпоном и шариками"
+      "name": "Topi Musim Sejuk Hijau Muda dengan Pom-pom dan Bebola"
     },
     {
       "id": 176,
-      "name": "Зеленая шапка с помпоном и шариками"
+      "name": "Topi Musim Sejuk Hijau dengan Pom-pom dan Bebola"
     },
     {
       "id": 177,
-      "name": "Синяя шапка с помпоном и шариками"
+      "name": "Topi Musim Sejuk Biru dengan Pom-pom dan Bebola"
     },
     {
       "id": 178,
-      "name": "Фиолетовая шапка с помпоном и шариками"
+      "name": "Topi Musim Sejuk Ungu dengan Pom-pom dan Bebola"
     },
     {
       "id": 179,
-      "name": "Красная шапка с красным помпоном и узором"
+      "name": "Topi Musim Sejuk Merah dengan Pom-pom Merah dan Corak"
     },
     {
       "id": 180,
-      "name": "Красная шапка с белым помпоном и узором"
+      "name": "Topi Musim Sejuk Merah dengan Pom-pom Putih dan Corak"
     },
     {
       "id": 181,
-      "name": "Синяя шапка с помпоном и узором"
+      "name": "Topi Musim Sejuk Biru dengan Pom-pom dan Corak"
     },
     {
       "id": 182,
-      "name": "Зеленая шапка с белым помпоном и узором"
+      "name": "Topi Musim Sejuk Hijau dengan Pom-pom Putih dan Corak"
     },
     {
       "id": 183,
-      "name": "Бирюзовая шапка с белым помпоном и узором"
+      "name": "Topi Musim Sejuk Pirus dengan Pom-pom Putih dan Corak"
     },
     {
       "id": 184,
-      "name": "Новогодний топорик"
+      "name": "Kapak Tahun Baru"
     },
     {
       "id": 185,
-      "name": "Голубая шапка с помпоном"
+      "name": "Topi Musim Sejuk Biru Muda dengan Pom-pom"
     },
     {
       "id": 186,
-      "name": "Красная шапка с помпоном"
+      "name": "Topi Musim Sejuk Merah dengan Pom-pom"
     },
     {
       "id": 187,
-      "name": "Фиолетово-зеленая шапка с помпоном"
+      "name": "Topi Musim Sejuk Ungu-Hijau dengan Pom-pom"
     },
     {
       "id": 188,
-      "name": "Синяя шапка с красным помпоном"
+      "name": "Topi Musim Sejuk Biru dengan Pom-pom Merah"
     },
     {
       "id": 189,
-      "name": "Черная шапка с помпоном"
+      "name": "Topi Musim Sejuk Hitam dengan Pom-pom"
     },
     {
       "id": 190,
-      "name": "Новогодняя палочка с кристаллом"
+      "name": "Tongkat Ajaib Tahun Baru dengan Kristal"
     },
     {
       "id": 191,
-      "name": "Разноцветная шапка для пацанов"
+      "name": "Topi Musim Sejuk Berwarna-warni Lelaki"
     },
     {
       "id": 192,
-      "name": "Очки-сердечки"
+      "name": "Cermin Mata Hati"
     },
     {
       "id": 193,
-      "name": "Рюкзак 'Котик'"
+      "name": "Beg Galas 'Kucing'"
     },
     {
       "id": 194,
-      "name": "Рюкзак 'Санта-Клауса'"
+      "name": "Beg Galas 'Santa Claus'"
     },
     {
       "id": 195,
-      "name": "Розовые очки 'Крылья летучей мыши'"
+      "name": "Cermin Mata Merah Jambu 'Sayap Kelawar'"
     },
     {
       "id": 196,
-      "name": "Очки 'Red Bloody'"
+      "name": "Cermin Mata 'Red Bloody'"
     },
     {
       "id": 197,
-      "name": "Очки 'Крылья бабочки'"
+      "name": "Cermin Mata 'Sayap Rama-rama'"
     },
     {
       "id": 198,
-      "name": "Черная панама с сигарой"
+      "name": "Topi Bucket Hitam dengan Cerut"
     },
     {
       "id": 199,
-      "name": "Серая панама с сигарой"
+      "name": "Topi Bucket Kelabu dengan Cerut"
     },
     {
       "id": 200,
-      "name": "Темная панама с сигарой"
+      "name": "Topi Bucket Gelap dengan Cerut"
     },
     {
       "id": 201,
-      "name": "Очки Глаза кошки"
+      "name": "Cermin Mata Mata Kucing"
     },
     {
       "id": 202,
-      "name": "Очки Облака с грозой"
+      "name": "Cermin Mata Awan Ribut"
     },
     {
       "id": 203,
-      "name": "Очки Новогодние с рогами"
+      "name": "Cermin Mata Tahun Baru Bertanduk"
     },
     {
       "id": 204,
-      "name": "Новогодняя шапка с рогами"
+      "name": "Topi Musim Sejuk Tahun Baru Bertanduk"
     },
     {
       "id": 205,
-      "name": "Очки Моргающие глаза"
+      "name": "Cermin Mata Mata Berkelip"
     },
     {
       "id": 206,
-      "name": "Очки Пламя"
+      "name": "Cermin Mata Nyalaan Api"
     },
     {
       "id": 207,
-      "name": "Прямые очки Огонь"
+      "name": "Cermin Mata Lurus Api"
     },
     {
       "id": 208,
-      "name": "Очки Оранжевые огни"
+      "name": "Cermin Mata Api Jingga"
     },
     {
       "id": 209,
-      "name": "Розовые очки сердечки"
+      "name": "Cermin Mata Merah Jambu Hati"
     },
     {
       "id": 210,
-      "name": "Голубые очки-звездочки"
+      "name": "Cermin Mata Bintang Biru Muda"
     },
     {
       "id": 211,
-      "name": "Шапка гнома с бородой"
+      "name": "Topi Gnome dengan Janggut"
     },
     {
       "id": 212,
-      "name": "Гринч",
-      "name_store": "Зеленая маска"
+      "name": "Grinch",
+      "name_store": "Topeng Hijau"
     },
     {
       "id": 213,
-      "name": "Новогодняя шапка с гирляндой"
+      "name": "Topi Musim Sejuk Tahun Baru dengan Kalungan Lampu"
     },
     {
       "id": 214,
-      "name": "Гребешок с ушками и рогами"
+      "name": "Cekak Telinga dan Tanduk"
     },
     {
       "id": 215,
-      "name": "Коричневый гребешок с ушками и рогами"
+      "name": "Cekak Coklat dengan Telinga dan Tanduk"
     },
     {
       "id": 216,
-      "name": "Очки Анимированный салют"
+      "name": "Cermin Mata Bunga Api Beranimasi"
     },
     {
       "id": 217,
-      "name": "Маска кошечки"
+      "name": "Topeng Kucing"
     },
     {
       "id": 218,
-      "name": "Маска тигра"
+      "name": "Topeng Harimau"
     },
     {
       "id": 219,
-      "name": "Прямые очки Матрица"
+      "name": "Cermin Mata Lurus Matrix"
     },
     {
       "id": 220,
-      "name": "Рюкзак Олаф",
-      "name_store": "Рюкзак снеговик"
+      "name": "Beg Galas Olaf",
+      "name_store": "Beg Galas Orang Salji"
     },
     {
       "id": 221,
-      "name": "Рюкзак Новогоднего оленя"
+      "name": "Beg Galas Rusa Tahun Baru"
     },
     {
       "id": 222,
-      "name": "Борода"
+      "name": "Janggut"
     },
     {
       "id": 223,
-      "name": "Шарф с тигровой шерстью"
+      "name": "Skarf Bulu Harimau"
     },
     {
       "id": 224,
-      "name": "Очки с падающими снежинками"
+      "name": "Cermin Mata dengan Salji Gugur"
     },
     {
       "id": 225,
-      "name": "Очки Сквидвард",
-      "name_store": "Очки"
+      "name": "Cermin Mata Squidward",
+      "name_store": "Cermin Mata"
     },
     {
       "id": 226,
-      "name": "Голубой посох со снежинкой и узором"
+      "name": "Tongkat Biru Muda dengan Salji dan Corak"
     },
     {
       "id": 227,
-      "name": "Очки Санрайз у воды"
+      "name": "Cermin Mata Matahari Terbit Tepi Air"
     },
     {
       "id": 228,
-      "name": "Новогодняя шапка птички"
+      "name": "Topi Musim Sejuk Burung Tahun Baru"
     },
     {
       "id": 229,
-      "name": "Прямые очки WARNING"
+      "name": "Cermin Mata Lurus WARNING"
     },
     {
       "id": 230,
-      "name": "Очки голубые крылья"
+      "name": "Cermin Mata Sayap Biru Muda"
     },
     {
       "id": 231,
-      "name": "Зеленый берет"
+      "name": "Beret Hijau"
     },
     {
       "id": 232,
-      "name": "Красный берет"
+      "name": "Beret Merah"
     },
     {
       "id": 233,
-      "name": "Синий берет"
+      "name": "Beret Biru"
     },
     {
       "id": 234,
-      "name": "Салатовый берет"
+      "name": "Beret Hijau Muda"
     },
     {
       "id": 235,
-      "name": "Желтый берет"
+      "name": "Beret Kuning"
     },
     {
       "id": 236,
-      "name": "Красная шапка Sport"
+      "name": "Topi Musim Sejuk Sport Merah"
     },
     {
       "id": 237,
-      "name": "Голубая шапка Sport"
+      "name": "Topi Musim Sejuk Sport Biru Muda"
     },
     {
       "id": 238,
-      "name": "Светлая панама"
+      "name": "Topi Bucket Cerah"
     },
     {
       "id": 239,
-      "name": "Темная панама"
+      "name": "Topi Bucket Gelap"
     },
     {
       "id": 240,
-      "name": "Черная шапка-ушанка"
+      "name": "Topi Ushanka Hitam"
     },
     {
       "id": 241,
-      "name": "Кремовая шапка-ушанка"
+      "name": "Topi Ushanka Krim"
     },
     {
       "id": 242,
-      "name": "Красная шапка ушанка"
+      "name": "Topi Ushanka Merah"
     },
     {
       "id": 243,
-      "name": "Синяя шапка ушанка"
+      "name": "Topi Ushanka Biru"
     },
     {
       "id": 244,
-      "name": "Зеленая шапка ушанка"
+      "name": "Topi Ushanka Hijau"
     },
     {
       "id": 245,
-      "name": "Черная шапка с помпоном"
+      "name": "Topi Musim Sejuk Hitam dengan Pom-pom"
     },
     {
       "id": 246,
-      "name": "Белая шапка с помпоном"
+      "name": "Topi Musim Sejuk Putih dengan Pom-pom"
     },
     {
       "id": 247,
-      "name": "Серая шапка с помпоном"
+      "name": "Topi Musim Sejuk Kelabu dengan Pom-pom"
     }
   ]
 }

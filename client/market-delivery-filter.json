@@ -1,27 +1,27 @@
-﻿{
+{
   "filters": [
     {
       "color": "#FDFDFD",
       "filterId": 1,
-      "filterName": "Все",
+      "filterName": "Semua",
       "iconCDN": "ic_all.svg"
     },
     {
       "color": "#FDFDFD",
       "filterId": 2,
-      "filterName": "Ресурсы",
+      "filterName": "Sumber",
       "iconCDN": "ic_gear.svg"
     },
     {
       "color": "#FDFDFD",
       "filterId": 3,
-      "filterName": "Аксессуары",
+      "filterName": "Aksesori",
       "iconCDN": "ic_acces.svg"
     },
     {
       "color": "#FDFDFD",
       "filterId": 4,
-      "filterName": "Одежда",
+      "filterName": "Pakaian",
       "iconCDN": "ic_clothes.svg"
     }
   ]

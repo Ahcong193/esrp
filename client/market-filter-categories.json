@@ -1,57 +1,57 @@
-﻿{
+{
   "categoriesFilters": [
     {
       "categoryFilterId": 1,
-      "categoryFilterName": "Категория",
+      "categoryFilterName": "Kategori",
       "filters": [
         {
           "color": "#FDFDFD",
           "filterId": 6,
-          "filterName": "Ресурсы",
+          "filterName": "Sumber",
           "iconCDN": "ic_gear.svg"
         },
         {
           "color": "#FDFDFD",
           "filterId": 7,
-          "filterName": "Аксессуары",
+          "filterName": "Aksesori",
           "iconCDN": "ic_acces.svg"
         },
         {
           "color": "#FDFDFD",
           "filterId": 8,
-          "filterName": "Одежда",
+          "filterName": "Pakaian",
           "iconCDN": "ic_clothes.svg"
         }
       ]
     },
     {
       "categoryFilterId": 2,
-      "categoryFilterName": "Редкость",
+      "categoryFilterName": "Kelangkaan",
       "filters": [
         {
           "color": "#FDFDFD",
           "filterId": 1,
-          "filterName": "Обычные"
+          "filterName": "Biasa"
         },
         {
           "color": "#12DD00",
           "filterId": 2,
-          "filterName": "Необычные"
+          "filterName": "Luar Biasa"
         },
         {
           "color": "#3EA2FF",
           "filterId": 3,
-          "filterName": "Редкие"
+          "filterName": "Jarang"
         },
         {
           "color": "#C173FE",
           "filterId": 4,
-          "filterName": "Эпические"
+          "filterName": "Epik"
         },
         {
           "color": "#FFCC00",
           "filterId": 5,
-          "filterName": "Легендарные"
+          "filterName": "Legenda"
         }
       ]
     }

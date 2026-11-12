@@ -1,25 +1,25 @@
-﻿[
+[
   {
-    "name": "Стайлинг центр",
+    "name": "Pusat Penggayaan",
     "footer": [
       {
-        "name": "Кузов",
+        "name": "Badan Kereta",
         "opensType": 0,
         "names": [
           {
-            "name": "Цвет кузова",
+            "name": "Warna Badan",
             "opensType": 1,
             "selectorId": 0,
             "imageId": "t_color_body_icon"
           },
           {
-            "name": "Цвет дисков",
+            "name": "Warna Rim",
             "opensType": 1,
             "selectorId": 1,
             "imageId": "t_color_disks_icon"
           },
           {
-            "name": "Винилы",
+            "name": "Vinil",
             "opensType": 2,
             "selectorId": 2,
             "imageId": "t_vinyl_icon"
@@ -27,17 +27,17 @@
         ]
       },
       {
-        "name": "Тонировка",
+        "name": "Cermin Gelap",
         "opensType": 0,
         "names": [
           {
-            "name": "Тонировка передних стекол",
+            "name": "Cermin Gelap Hadapan",
             "opensType": 1,
             "selectorId": 3,
             "imageId": "t_toning_front_icon"
           },
           {
-            "name": "Тонировка задних стекол",
+            "name": "Cermin Gelap Belakang",
             "opensType": 1,
             "selectorId": 4,
             "imageId": "t_toning_back_icon"
@@ -45,17 +45,17 @@
         ]
       },
       {
-        "name": "Звуки",
+        "name": "Bunyi",
         "opensType": 0,
         "names": [
           {
-            "name": "Клаксон",
+            "name": "Hon",
             "opensType": 2,
             "selectorId": 7,
             "imageId": "t_horn_icon"
           },
           {
-            "name": "Звук выхлопа",
+            "name": "Bunyi Ekzos",
             "opensType": 2,
             "selectorId": 9,
             "imageId": "t_exhaust_sound_icon"
@@ -63,41 +63,41 @@
         ]
       },
       {
-        "name": "Свет",
+        "name": "Lampu",
         "opensType": 0,
         "names": [
           {
-            "name": "Цвет фар",
+            "name": "Warna Lampu Hadapan",
             "opensType": 1,
             "selectorId": 10,
             "imageId": "t_color_light_icon"
           },
           {
-            "name": "Цвет свечения под автомобилем",
+            "name": "Warna Lampu Bawah Kereta",
             "opensType": 1,
             "selectorId": 11,
             "imageId": "t_color_neon_icon"
           },
           {
-            "name": "Цвет свечения слева",
+            "name": "Warna Lampu Sisi Kiri",
             "opensType": 1,
             "selectorId": 12,
             "imageId": "t_color_neon_left_icon"
           },
           {
-            "name": "Цвет свечения справа",
+            "name": "Warna Lampu Sisi Kanan",
             "opensType": 1,
             "selectorId": 13,
             "imageId": "t_color_neon_right_icon"
           },
           {
-            "name": "Стробоскопы",
+            "name": "Lampu Strob",
             "opensType": 2,
             "selectorId": 14,
             "imageId": "t_stroboscope_icon"
           },
           {
-            "name": "Дальний свет",
+            "name": "Lampu Tinggi",
             "opensType": 2,
             "selectorId": 48,
             "imageId": "t_stroboscope_icon"
@@ -107,79 +107,79 @@
     ]
   },
   {
-    "name": "СТО",
+    "name": "Bengkel Servis",
     "footer": [
       {
-        "name": "Износ",
+        "name": "Haus & Lusuh",
         "opensType": 3,
         "selectorId": 15
       },
       {
-        "name": "Тюнинг",
+        "name": "Pengubahsuaian",
         "opensType": 0,
         "names": [
           {
-            "name": "Спойлер",
+            "name": "Spoiler",
             "opensType": 2,
             "selectorId": 16,
             "imageId": "t_spoiler_icon"
           },
           {
-            "name": "Бамперы",
+            "name": "Bumper",
             "opensType": 2,
             "selectorId": 17,
             "imageId": "t_bumper_icon"
           },
           {
-            "name": "Пороги",
+            "name": "Skirting Sisi",
             "opensType": 2,
             "selectorId": 18,
             "imageId": "t_thresholds_icon"
           },
           {
-            "name": "Выхлопы",
+            "name": "Ekzos",
             "opensType": 2,
             "selectorId": 19,
             "imageId": "t_muffler_icon"
           },
           {
-            "name": "Сплиттер",
+            "name": "Splitter",
             "opensType": 2,
             "selectorId": 20,
             "imageId": "t_splitter_icon"
           },
           {
-            "name": "Крыша",
+            "name": "Bumbung",
             "opensType": 2,
             "selectorId": 21,
             "imageId": "t_roof_icon"
           },
           {
-            "name": "Капот",
+            "name": "Bonet Hadapan",
             "opensType": 2,
             "selectorId": 43,
             "imageId": "t_hood_icon"
           },
           {
-            "name": "Багажник",
+            "name": "Bonet Belakang",
             "opensType": 2,
             "selectorId": 44,
             "imageId": "t_trunk_icon"
           },
           {
-            "name": "Расширения",
+            "name": "Fender Lebar",
             "opensType": 2,
             "selectorId": 45,
             "imageId": "t_fender_extension_icon"
           },
           {
-            "name": "Решетка бампера",
+            "name": "Gril Bumper",
             "opensType": 2,
             "selectorId": 46,
             "imageId": "t_bumper_grill_icon"
           },
           {
-            "name": "Доп. спойлер",
+            "name": "Spoiler Tambahan",
             "opensType": 2,
             "selectorId": 47,
             "imageId": "t_spoiler_icon"
@@ -189,20 +189,20 @@
     ]
   },
   {
-    "name": "Шиномонтажный центр",
+    "name": "Pusat Tayar & Rim",
     "footer": [
       {
-        "name": "Клиренс",
+        "name": "Ketinggian Kereta",
         "opensType": 0,
         "names": [
           {
-            "name": "Общий клиренс",
+            "name": "Ketinggian Keseluruhan",
             "opensType": 4,
             "selectorId": 22,
             "imageId": "t_full_clearance_icon"
           },
           {
-            "name": "Отдельный клиренс",
+            "name": "Ketinggian Berasingan",
             "opensType": 4,
             "selectorId": 23,
             "imageId": "t_individual_clearance_icon"
@@ -210,47 +210,47 @@
         ]
       },
       {
-        "name": "Колеса",
+        "name": "Roda",
         "opensType": 0,
         "names": [
           {
-            "name": "Вылет передних колес",
+            "name": "Ofset Roda Hadapan",
             "opensType": 4,
             "selectorId": 24,
             "imageId": "t_width_front_wheels_icon"
           },
           {
-            "name": "Вылет задних колес",
+            "name": "Ofset Roda Belakang",
             "opensType": 4,
             "selectorId": 25,
             "imageId": "t_width_back_wheels_icon"
           },
           {
-            "name": "Развал передних колес",
+            "name": "Kamber Roda Hadapan",
             "opensType": 4,
             "selectorId": 26,
             "imageId": "t_collapse_front_icon"
           },
           {
-            "name": "Развал задних колес",
+            "name": "Kamber Roda Belakang",
             "opensType": 4,
             "selectorId": 27,
             "imageId": "t_collapse_back_icon"
           },
           {
-            "name": "Ширина передних колес",
+            "name": "Lebar Roda Hadapan",
             "opensType": 4,
             "selectorId": 28,
             "imageId": "t_departure_front_wheels_icon"
           },
           {
-            "name": "Ширина задних колес",
+            "name": "Lebar Roda Belakang",
             "opensType": 4,
             "selectorId": 29,
             "imageId": "t_departure_back_wheels_icon"
           },
           {
-            "name": "Радиус колес",
+            "name": "Saiz Roda",
             "opensType": 4,
             "selectorId": 30,
             "imageId": "t_radius_wheels_icon"
@@ -258,17 +258,17 @@
         ]
       },
       {
-        "name": "Диски",
+        "name": "Rim",
         "opensType": 0,
         "names": [
           {
-            "name": "Диски",
+            "name": "Rim",
             "opensType": 2,
             "selectorId": 31,
             "imageId": "t_disks_icon"
           },
           {
-            "name": "Цвета дисков",
+            "name": "Warna Rim",
             "opensType": 1,
             "selectorId": 32,
             "imageId": "t_color_disks_icon"
@@ -276,17 +276,17 @@
         ]
       },
       {
-        "name": "Подвеска",
+        "name": "Penggantungan",
         "opensType": 0,
         "names": [
           {
-            "name": "Установка гидравлики",
+            "name": "Pemasangan Hidraulik",
             "opensType": 2,
             "selectorId": 34,
             "imageId": "t_hydraulics_icon"
           },
           {
-            "name": "Установка пневмоподвески",
+            "name": "Pemasangan Penggantungan Udara",
             "opensType": 2,
             "selectorId": 35,
             "imageId": "t_pnevmo_icon"
@@ -296,38 +296,38 @@
     ]
   },
   {
-    "name": "Технический центр",
+    "name": "Pusat Prestasi & Teknikal",
     "footer": [
       {
-        "name": "Тюнинг",
+        "name": "Pengubahsuaian",
         "opensType": 0,
         "names": [
           {
-            "name": "Дифференциалы",
+            "name": "Diferensial",
             "opensType": 2,
             "selectorId": 36,
             "imageId": "t_differential_icon"
           },
           {
-            "name": "Тормоза",
+            "name": "Brek",
             "opensType": 2,
             "selectorId": 37,
             "imageId": "t_brakers_icon"
           },
           {
-            "name": "Турбонаддув",
+            "name": "Pengecas Turbo",
             "opensType": 2,
             "selectorId": 38,
             "imageId": "t_air_filter_icon"
           },
           {
-            "name": "Двигатели",
+            "name": "Enjin",
             "opensType": 2,
             "selectorId": 39,
             "imageId": "t_engine_icon"
           },
           {
-            "name": "Нагнетатели",
+            "name": "Pengecas Super",
             "opensType": 2,
             "selectorId": 40,
             "imageId": "t_supercharger_icon"
@@ -335,11 +335,11 @@
         ]
       },
       {
-        "name": "Лаунч-контроль",
+        "name": "Kawalan Pelancaran",
         "opensType": 0,
         "names": [
           {
-            "name": "Лаунч-контроль",
+            "name": "Kawalan Pelancaran",
             "opensType": 2,
             "selectorId": 41,
             "imageId": "t_launch_control"
@@ -347,11 +347,11 @@
         ]
       },
       {
-        "name": "Нитро",
+        "name": "Nitro",
         "opensType": 0,
         "names": [
           {
-            "name": "Нитро",
+            "name": "Nitro",
             "opensType": 2,
             "selectorId": 42,
             "imageId": "t_nitro_icon"
